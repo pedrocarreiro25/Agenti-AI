@@ -15,6 +15,17 @@ NULL_VALUE = "null"
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 FIELDNAMES = [
     "source_file",
     "ocr_text_file",
