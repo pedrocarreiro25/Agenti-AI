@@ -1,0 +1,8 @@
+==============================
+SOURCE FILE: C:\Users\henri\Desktop\agenticaiv2\data\data_raw\luz_02.webp
+SELECTED OCR RESULT: baseline_ocr
+QUALITY SCORE: 0.0
+EXTRACTION METHOD: baseline_ocr
+==============================
+
+

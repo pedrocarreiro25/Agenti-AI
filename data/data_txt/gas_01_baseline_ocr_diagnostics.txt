@@ -1,0 +1,32 @@
+SOURCE FILE: C:\Users\henri\Desktop\agenticaiv2\data\data_raw\gas_01.webp
+OCR RESULT: baseline_ocr
+SEARCHABLE PDF: C:\Users\henri\Desktop\agenticaiv2\data\data_pdf\gas_01_baseline_ocr.pdf
+
+score: 0.176
+characters: 391
+words: 73
+dates found: 0
+money values found: 2
+VAT/NIF numbers found: 0
+invoice keywords found: 2
+provider keywords found: 1
+consumption units found: 0
+noise score: 0.031
+
+signals:
+{
+  "invoice_keywords": [
+    "fatura",
+    "iva"
+  ],
+  "provider_keywords": [
+    "galp"
+  ],
+  "page_count": 1,
+  "replacement_character_count": 0,
+  "isolated_short_token_ratio": 0.11,
+  "symbol_ratio": 0.01
+}
+
+warnings:
+- No date patterns detected.

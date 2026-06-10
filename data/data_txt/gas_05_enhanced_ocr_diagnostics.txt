@@ -1,0 +1,41 @@
+SOURCE FILE: C:\Users\henri\Desktop\agenticaiv2\data\data_raw\gas_05.jpg
+OCR RESULT: enhanced_ocr
+SEARCHABLE PDF: C:\Users\henri\Desktop\agenticaiv2\data\data_pdf\gas_05_enhanced_ocr.pdf
+
+score: 0.482
+characters: 2088
+words: 370
+dates found: 0
+money values found: 1
+VAT/NIF numbers found: 0
+invoice keywords found: 10
+provider keywords found: 2
+consumption units found: 5
+noise score: 0.052
+
+signals:
+{
+  "invoice_keywords": [
+    "fatura",
+    "pagamento",
+    "total",
+    "valor",
+    "iva",
+    "cliente",
+    "consumo",
+    "eletricidade",
+    "electricidade",
+    "gas"
+  ],
+  "provider_keywords": [
+    "nos",
+    "galp"
+  ],
+  "page_count": 1,
+  "replacement_character_count": 0,
+  "isolated_short_token_ratio": 0.192,
+  "symbol_ratio": 0.017
+}
+
+warnings:
+- No date patterns detected.

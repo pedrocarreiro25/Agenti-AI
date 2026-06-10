@@ -1,0 +1,36 @@
+SOURCE FILE: C:\Users\henri\Desktop\agenticaiv2\data\data_raw\agua_05.jpg
+OCR RESULT: enhanced_ocr
+SEARCHABLE PDF: C:\Users\henri\Desktop\agenticaiv2\data\data_pdf\agua_05_enhanced_ocr.pdf
+
+score: 0.495
+characters: 1890
+words: 336
+dates found: 4
+money values found: 2
+VAT/NIF numbers found: 0
+invoice keywords found: 7
+provider keywords found: 1
+consumption units found: 0
+noise score: 0.029
+
+signals:
+{
+  "invoice_keywords": [
+    "fatura",
+    "documento",
+    "pagamento",
+    "total",
+    "cliente",
+    "consumo",
+    "agua"
+  ],
+  "provider_keywords": [
+    "aguas"
+  ],
+  "page_count": 1,
+  "replacement_character_count": 0,
+  "isolated_short_token_ratio": 0.128,
+  "symbol_ratio": 0.01
+}
+
+warnings:

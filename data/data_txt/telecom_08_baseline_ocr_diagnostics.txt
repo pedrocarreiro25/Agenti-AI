@@ -1,0 +1,39 @@
+SOURCE FILE: C:\Users\henri\Desktop\agenticaiv2\data\data_raw\telecom_08.webp
+OCR RESULT: baseline_ocr
+SEARCHABLE PDF: C:\Users\henri\Desktop\agenticaiv2\data\data_pdf\telecom_08_baseline_ocr.pdf
+
+score: 0.505
+characters: 1182
+words: 188
+dates found: 1
+money values found: 4
+VAT/NIF numbers found: 0
+invoice keywords found: 9
+provider keywords found: 2
+consumption units found: 0
+noise score: 0.023
+
+signals:
+{
+  "invoice_keywords": [
+    "fatura",
+    "recibo",
+    "documento",
+    "pagamento",
+    "total",
+    "valor",
+    "iva",
+    "contribuinte",
+    "cliente"
+  ],
+  "provider_keywords": [
+    "vodafone",
+    "nos"
+  ],
+  "page_count": 1,
+  "replacement_character_count": 0,
+  "isolated_short_token_ratio": 0.08,
+  "symbol_ratio": 0.008
+}
+
+warnings:

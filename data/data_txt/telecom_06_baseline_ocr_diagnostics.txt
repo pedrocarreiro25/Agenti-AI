@@ -1,0 +1,32 @@
+SOURCE FILE: C:\Users\henri\Desktop\agenticaiv2\data\data_raw\telecom_06.webp
+OCR RESULT: baseline_ocr
+SEARCHABLE PDF: C:\Users\henri\Desktop\agenticaiv2\data\data_pdf\telecom_06_baseline_ocr.pdf
+
+score: 0.234
+characters: 929
+words: 176
+dates found: 0
+money values found: 1
+VAT/NIF numbers found: 2
+invoice keywords found: 3
+provider keywords found: 0
+consumption units found: 0
+noise score: 0.032
+
+signals:
+{
+  "invoice_keywords": [
+    "fatura",
+    "valor",
+    "iva"
+  ],
+  "provider_keywords": [],
+  "page_count": 1,
+  "replacement_character_count": 0,
+  "isolated_short_token_ratio": 0.085,
+  "symbol_ratio": 0.011
+}
+
+warnings:
+- No date patterns detected.
+- No provider keywords detected.

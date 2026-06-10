@@ -1,0 +1,31 @@
+SOURCE FILE: C:\Users\henri\Desktop\agenticaiv2\data\data_raw\luz_03.webp
+OCR RESULT: enhanced_ocr
+SEARCHABLE PDF: C:\Users\henri\Desktop\agenticaiv2\data\data_pdf\luz_03_enhanced_ocr.pdf
+
+score: 0.157
+characters: 273
+words: 54
+dates found: 0
+money values found: 1
+VAT/NIF numbers found: 1
+invoice keywords found: 1
+provider keywords found: 1
+consumption units found: 0
+noise score: 0.066
+
+signals:
+{
+  "invoice_keywords": [
+    "cliente"
+  ],
+  "provider_keywords": [
+    "edp"
+  ],
+  "page_count": 1,
+  "replacement_character_count": 0,
+  "isolated_short_token_ratio": 0.13,
+  "symbol_ratio": 0.022
+}
+
+warnings:
+- No date patterns detected.

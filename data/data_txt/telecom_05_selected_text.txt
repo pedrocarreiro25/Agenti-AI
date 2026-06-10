@@ -1,0 +1,156 @@
+==============================
+SOURCE FILE: C:\Users\henri\Desktop\agenticaiv2\data\data_raw\telecom_05.jpg
+SELECTED OCR RESULT: enhanced_ocr
+QUALITY SCORE: 0.546
+EXTRACTION METHOD: enhanced_ocr
+==============================
+
+(O vodafone | Red
+FATURA
+Fatura ID: N502023036026128
+Fatura Tarihi: 31.08.2023 23:59
+irsaliye Tarihi / No:
+Fatura Dônemi: Agustos 2023( 01 Agu - 31 Agu )
+Fatura Referansi: D30850E6A8163
+ETTN: 96193729-ec 1f-4316-b973-ee6e151 14faa
+VODAFONE TELEKOMUNIKASYON A.S.
+BIR SONRAKiI FATURA TARIHi: 30.09.2023
+Digita
+VOD
+BIR SONRAKI SON ODEME TARIHi: 16.10.2023
+E-Arsiv Fatura
+2.
+afrórer
+Miigteri Hizmetieri: 542
+Faks: 0850 542 50 00
+Vodafone Telekomiinikasyon A.§.
+Vodafone Plaza
+Búyikdere Cad. Noc251
+Maslak 34398 Istanbul
+Ticaret Sicil No: 564625 512207
+Biyok Mukellefier VD. 925 035 3261
+Sn.
+Naime Didem Erdemli Kekevi
+Hacikara Mah. Profesor Doktor Gazi Yagargil
+Caddesi No.57 Daire54 No.5? Daires4
+06730 Beypazan 
+Ankara
+SON ODEME TARÍHI: 15/09/2023
+FATURA TUTARI: 
+| 
+563.00 TL
+SON ODEME TARIHI: 
+15.09.2023
+ÔDENMEMIS FATURA BILGILERi:
+(Odeme yaptysaniz bitten dikkate almayin.)
+Zamaninda yaptiginiz ôdemeler için tegekkir ederiz.
+Liitien faturanin arkasindaki açiklamalar ve bankalar kismini okuyunuz.
+Yalnz BESYUZALTMISUG /TL SIFIR /KR
+GSM NO: 
+505 667 37 35 
+Abonelik Baslangiç Tarihi: 
+04.07.2011
+(Vergiler dahildir.) 
+Diger Ucretler 
+257.77 TL
+Red Tarifem 20GB Paketi Tarife 
+195.18 TL 
+indirim iptali 
+267 TT
+Ucreti 
+Aylik Ucretler Toplami 
+553.49 TL
+Ek Kullanimlar 
+" 
+100.54 TL 
+(Vergiler Harig: 
+425.76 TL)
+Taahhutlu Ek Paket Ucreti 
+TH2 
+100.54
+Vodafone'a iletilecek Ucretler 
+425.76 TL
+(Aylik licretlerinizin vergiler hariç toplamudir.)
+Devlete lletilecek Ucretler 
+137.16 TL
+KDV %20 
+85.16
+Ozel lletisimn Vergisi %10 
+42.57
+Telsiz Kullanma ÚUcretleri 
+943
+Ara Toplam 
+562.92 TL
+Resmi Gazete'de yayimlanan karara istinaden 10 Temmuz 2023 tarihi tibanyla KDV oram
+220 olarak gincellenmistir. Fatura dôneminizin 10 Temmuz éncesi kullanimlan % 13 EDV
+oraniyla Geretiendiirken, 10 Temmuz ve sonras: kullanenlarine giinee! KD orani olan %20
+de Gicretendirilmeye baslamuisbr.
+Toplam Fatura Tutar Bilgisi
+Ara Toplam 
+562.92 TL
+Onceki Aydan Devreden Ucretler 
+0.09 TL
+FATURA TUTARI 
+563.00 TL
+Tarife Digi Kullanimlarmizin Ucretlendirilmesi
+Tarife Adi | Taahhiitsiiz 
+Tarifenin igerigi 
+Vodafone I¢i 
+Sabit Hat 
+Diger Operatar 
+SHS 
+Internet 
+Ucretlendirme
+Giincel Tarife 
+Konusma 
+Konugma 
+Konugma 
+Periyodu
+Ucreti
+Red Tarifem| 
+283.36 TL 
+Her yone 3000 DK. 
+1.50 TUIDK 
+1.90 TUDK 
+1.90 TUDK 
+1.36 TUSMS| 
+0.005691 
+[6 Saniye/ 100 Kb
+20GB Paketi 
+Vodafonelulara sinirsiz 
+TUKE
+konusma, her yone 250
+SMS, yurt ici 22GB
+Tarifenize Ek Paket Içerigi ve Ucretleri
+Avantajli 15GB Paket. 141.17 TL"(1 adet),
+taanhieindz oimadi
+. guncaienen ucretier koniratinizin tts tarhinden sonra gecenl olacakhr. Detaylarwww.
+uyguianmeghr. Avantajl 1565 Paketl : Faturanca 01.06.2023401.09.2023 tarinien aralijenda 31 gin uygulanmigir. Tare Indiriminiz 67.83 TL’ dir. Taahhutlu ek paket kampany.
+iitanyle Averrall 1555 Kampanyas! kampanyas! taahhdtindatn 7. ayinda bulunmaiasiniz. Kampanyaniz 01.02.2024 tarhinds sona erecektir. Taahnitindain son aynda olup bir sonra fatura dôneminde baglayacak
+tarfenian taahindisiz gâncel fyat 263.36 
+TL dzeninden Ocretiencirtireiniz.
+oy durumda
+Tarifeniz / Kam
+2 gen 
+Ae
+panyaniz / Paketiniz ile llgili Açikl
+vodafone 
+com
+amalar (Tutarlara KDV, OIV dahildir)
+ef 
+quiceleneceki. 
+27M 
+22% 
+tare yal 
+ato 
+clara quince anecelir. Devam ede 
+Te
+Red Tarfem 2068 Paket : Faturaniga 10.08.2023401.05 
+2023 tanned araliynda 
+22 gon
+anya Indinminiz 40.63 Tudor. Fatura kesim tain
+Bu fatura e-Arsiv izni kapsaminda elektronik ortamda iletilmistir.
+_
+Basim Yer ve Baski Sirket Mener!: Posthom Basim Posta 
+ve lietisim Hinmetier! AS. IKRell OS6 Mah ipkas Sanay Sitesi C Blok Sok. Nit 17 Basakeehin STANBUL VD V No 
+ETR

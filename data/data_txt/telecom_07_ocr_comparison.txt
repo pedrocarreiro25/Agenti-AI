@@ -1,0 +1,37 @@
+SOURCE FILE: C:\Users\henri\Desktop\agenticaiv2\data\data_raw\telecom_07.webp
+
+BASELINE OCR:
+- searchable_pdf: C:\Users\henri\Desktop\agenticaiv2\data\data_pdf\telecom_07_baseline_ocr.pdf
+- score: 0.029
+- characters: 24
+- words: 3
+- dates found: 0
+- money values found: 0
+- VAT/NIF numbers found: 0
+- consumption units found: 0
+- warnings:
+  - Very low character count.
+  - No date patterns detected.
+  - No money values detected.
+  - No invoice keywords detected.
+
+ENHANCED OCR:
+- searchable_pdf: C:\Users\henri\Desktop\agenticaiv2\data\data_pdf\telecom_07_enhanced_ocr.pdf
+- score: 0.029
+- characters: 24
+- words: 3
+- dates found: 0
+- money values found: 0
+- VAT/NIF numbers found: 0
+- consumption units found: 0
+- warnings:
+  - Very low character count.
+  - No date patterns detected.
+  - No money values detected.
+  - No invoice keywords detected.
+
+SELECTED RESULT:
+baseline_ocr
+
+REASON:
+Scores were close, and baseline OCR had equal or better invoice signals.

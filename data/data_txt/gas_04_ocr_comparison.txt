@@ -1,0 +1,31 @@
+SOURCE FILE: C:\Users\henri\Desktop\agenticaiv2\data\data_raw\gas_04.png
+
+BASELINE OCR:
+- searchable_pdf: C:\Users\henri\Desktop\agenticaiv2\data\data_pdf\gas_04_baseline_ocr.pdf
+- score: 0.324
+- characters: 1158
+- words: 191
+- dates found: 0
+- money values found: 2
+- VAT/NIF numbers found: 1
+- consumption units found: 0
+- warnings:
+  - No date patterns detected.
+
+ENHANCED OCR:
+- searchable_pdf: C:\Users\henri\Desktop\agenticaiv2\data\data_pdf\gas_04_enhanced_ocr.pdf
+- score: 0.47
+- characters: 1955
+- words: 331
+- dates found: 0
+- money values found: 2
+- VAT/NIF numbers found: 2
+- consumption units found: 0
+- warnings:
+  - No date patterns detected.
+
+SELECTED RESULT:
+enhanced_ocr
+
+REASON:
+Enhanced OCR had a higher quality score.

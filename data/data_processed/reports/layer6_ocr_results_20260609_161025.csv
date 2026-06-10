@@ -1,0 +1,2 @@
+source_file,file_type,extraction_method,quality_score,requires_ocr,requires_manual_review,selected_text_file,searchable_pdf,warnings,errors
+C:\Users\henri\Desktop\agenticaiv2\data\data_raw\agua_01_20260609_161013.webp,webp,baseline_ocr,0.197,True,True,C:\Users\henri\Desktop\agenticaiv2\data\data_txt\agua_01_20260609_161013_selected_text.txt,C:\Users\henri\Desktop\agenticaiv2\data\data_pdf\agua_01_20260609_161013_baseline_ocr.pdf,No dates found in selected text. | No money values found in selected text. | Selected OCR quality score is below manual-review threshold.,

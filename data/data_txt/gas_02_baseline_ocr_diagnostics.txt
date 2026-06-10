@@ -1,0 +1,35 @@
+SOURCE FILE: C:\Users\henri\Desktop\agenticaiv2\data\data_raw\gas_02.png
+OCR RESULT: baseline_ocr
+SEARCHABLE PDF: C:\Users\henri\Desktop\agenticaiv2\data\data_pdf\gas_02_baseline_ocr.pdf
+
+score: 0.324
+characters: 1158
+words: 191
+dates found: 0
+money values found: 2
+VAT/NIF numbers found: 1
+invoice keywords found: 5
+provider keywords found: 1
+consumption units found: 0
+noise score: 0.013
+
+signals:
+{
+  "invoice_keywords": [
+    "fatura",
+    "pagamento",
+    "valor",
+    "cliente",
+    "eletricidade"
+  ],
+  "provider_keywords": [
+    "galp"
+  ],
+  "page_count": 1,
+  "replacement_character_count": 0,
+  "isolated_short_token_ratio": 0.089,
+  "symbol_ratio": 0.004
+}
+
+warnings:
+- No date patterns detected.

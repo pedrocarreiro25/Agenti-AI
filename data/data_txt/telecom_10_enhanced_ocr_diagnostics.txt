@@ -1,0 +1,36 @@
+SOURCE FILE: C:\Users\henri\Desktop\agenticaiv2\data\data_raw\telecom_10.jpg
+OCR RESULT: enhanced_ocr
+SEARCHABLE PDF: C:\Users\henri\Desktop\agenticaiv2\data\data_pdf\telecom_10_enhanced_ocr.pdf
+
+score: 0.471
+characters: 1343
+words: 207
+dates found: 1
+money values found: 2
+VAT/NIF numbers found: 3
+invoice keywords found: 7
+provider keywords found: 1
+consumption units found: 0
+noise score: 0.013
+
+signals:
+{
+  "invoice_keywords": [
+    "fatura",
+    "documento",
+    "pagamento",
+    "total",
+    "valor",
+    "iva",
+    "contribuinte"
+  ],
+  "provider_keywords": [
+    "vodafone"
+  ],
+  "page_count": 1,
+  "replacement_character_count": 0,
+  "isolated_short_token_ratio": 0.068,
+  "symbol_ratio": 0.004
+}
+
+warnings:

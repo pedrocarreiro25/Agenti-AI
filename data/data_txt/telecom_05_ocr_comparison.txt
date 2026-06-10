@@ -1,0 +1,30 @@
+SOURCE FILE: C:\Users\henri\Desktop\agenticaiv2\data\data_raw\telecom_05.jpg
+
+BASELINE OCR:
+- searchable_pdf: C:\Users\henri\Desktop\agenticaiv2\data\data_pdf\telecom_05_baseline_ocr.pdf
+- score: 0.437
+- characters: 2536
+- words: 377
+- dates found: 0
+- money values found: 9
+- VAT/NIF numbers found: 0
+- consumption units found: 4
+- warnings:
+  - No date patterns detected.
+
+ENHANCED OCR:
+- searchable_pdf: C:\Users\henri\Desktop\agenticaiv2\data\data_pdf\telecom_05_enhanced_ocr.pdf
+- score: 0.546
+- characters: 3625
+- words: 547
+- dates found: 1
+- money values found: 16
+- VAT/NIF numbers found: 0
+- consumption units found: 5
+- warnings:
+
+SELECTED RESULT:
+enhanced_ocr
+
+REASON:
+Enhanced OCR had a higher quality score.

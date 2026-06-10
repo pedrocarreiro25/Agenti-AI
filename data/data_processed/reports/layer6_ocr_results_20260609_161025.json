@@ -1,0 +1,107 @@
+[
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\agua_01_20260609_161013.webp",
+    "file_type": "webp",
+    "extraction_method": "baseline_ocr",
+    "selected_text": "Se \nEPAL\nCódigo de Cliente\n29612063\nmissa \noe BARROS viana\nRMeuema \nvaz oa Siva\nanc\n3750-481 USBOA\neT \nUna grs 800208101 (28H) ——\nComunicação \nde letras no a 20211112\nMarcação Online\nde atendimento nas Lojas EPAL\nmana nana isto lt payshop\nDAMA\n2961206217402306161110 613 000061710 \n14",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_20260609_161013_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_20260609_161013_baseline_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_20260609_161013_baseline_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_20260609_161013_baseline_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_20260609_161013_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\agua_01_20260609_161013_baseline_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\agua_01_20260609_161013_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_20260609_161013_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_20260609_161013_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_20260609_161013_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.197,
+        "character_count": 284,
+        "word_count": 45,
+        "date_count": 0,
+        "money_count": 0,
+        "vat_number_count": 2,
+        "invoice_keyword_count": 2,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.021,
+        "warnings": [
+          "No date patterns detected.",
+          "No money values detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "iva",
+            "cliente"
+          ],
+          "provider_keywords": [
+            "epal"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.022,
+          "symbol_ratio": 0.007
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected.",
+        "No money values detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\agua_01_20260609_161013_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_20260609_161013_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_20260609_161013_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_20260609_161013_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.197,
+        "character_count": 284,
+        "word_count": 45,
+        "date_count": 0,
+        "money_count": 0,
+        "vat_number_count": 2,
+        "invoice_keyword_count": 2,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.021,
+        "warnings": [
+          "No date patterns detected.",
+          "No money values detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "iva",
+            "cliente"
+          ],
+          "provider_keywords": [
+            "epal"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.022,
+          "symbol_ratio": 0.007
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected.",
+        "No money values detected."
+      ]
+    },
+    "quality_score": 0.197,
+    "requires_ocr": true,
+    "requires_manual_review": true,
+    "warnings": [
+      "No dates found in selected text.",
+      "No money values found in selected text.",
+      "Selected OCR quality score is below manual-review threshold."
+    ],
+    "errors": []
+  }
+]

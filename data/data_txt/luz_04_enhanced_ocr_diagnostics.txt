@@ -1,0 +1,30 @@
+SOURCE FILE: C:\Users\henri\Desktop\agenticaiv2\data\data_raw\luz_04.webp
+OCR RESULT: enhanced_ocr
+SEARCHABLE PDF: C:\Users\henri\Desktop\agenticaiv2\data\data_pdf\luz_04_enhanced_ocr.pdf
+
+score: 0.0
+characters: 262
+words: 56
+dates found: 0
+money values found: 0
+VAT/NIF numbers found: 0
+invoice keywords found: 0
+provider keywords found: 0
+consumption units found: 0
+noise score: 0.08
+
+signals:
+{
+  "invoice_keywords": [],
+  "provider_keywords": [],
+  "page_count": 1,
+  "replacement_character_count": 0,
+  "isolated_short_token_ratio": 0.214,
+  "symbol_ratio": 0.027
+}
+
+warnings:
+- No date patterns detected.
+- No money values detected.
+- No invoice keywords detected.
+- No provider keywords detected.

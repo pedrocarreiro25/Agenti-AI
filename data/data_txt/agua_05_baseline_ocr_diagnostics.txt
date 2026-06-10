@@ -1,0 +1,34 @@
+SOURCE FILE: C:\Users\henri\Desktop\agenticaiv2\data\data_raw\agua_05.jpg
+OCR RESULT: baseline_ocr
+SEARCHABLE PDF: C:\Users\henri\Desktop\agenticaiv2\data\data_pdf\agua_05_baseline_ocr.pdf
+
+score: 0.115
+characters: 393
+words: 63
+dates found: 0
+money values found: 0
+VAT/NIF numbers found: 0
+invoice keywords found: 3
+provider keywords found: 1
+consumption units found: 0
+noise score: 0.053
+
+signals:
+{
+  "invoice_keywords": [
+    "fatura",
+    "cliente",
+    "agua"
+  ],
+  "provider_keywords": [
+    "aguas"
+  ],
+  "page_count": 1,
+  "replacement_character_count": 0,
+  "isolated_short_token_ratio": 0.127,
+  "symbol_ratio": 0.018
+}
+
+warnings:
+- No date patterns detected.
+- No money values detected.

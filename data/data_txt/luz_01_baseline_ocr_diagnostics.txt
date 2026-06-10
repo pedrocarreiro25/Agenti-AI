@@ -1,0 +1,33 @@
+SOURCE FILE: C:\Users\henri\Desktop\agenticaiv2\data\data_raw\luz_01.webp
+OCR RESULT: baseline_ocr
+SEARCHABLE PDF: C:\Users\henri\Desktop\agenticaiv2\data\data_pdf\luz_01_baseline_ocr.pdf
+
+score: 0.079
+characters: 503
+words: 89
+dates found: 0
+money values found: 0
+VAT/NIF numbers found: 0
+invoice keywords found: 3
+provider keywords found: 0
+consumption units found: 0
+noise score: 0.012
+
+signals:
+{
+  "invoice_keywords": [
+    "cliente",
+    "consumo",
+    "gas"
+  ],
+  "provider_keywords": [],
+  "page_count": 1,
+  "replacement_character_count": 0,
+  "isolated_short_token_ratio": 0.067,
+  "symbol_ratio": 0.004
+}
+
+warnings:
+- No date patterns detected.
+- No money values detected.
+- No provider keywords detected.

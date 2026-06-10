@@ -1,0 +1,420 @@
+{
+  "retrieved_at": "2026-06-09T14:51:49+00:00",
+  "provider_hint": "vodafone",
+  "invoice_type_hint": "telecom",
+  "common_ocr_corrections": {
+    "Ã¡": "a",
+    "Ã¢": "a",
+    "Ã£": "a",
+    "Ã§": "c",
+    "Ã©": "e",
+    "Ãª": "e",
+    "Ã­": "i",
+    "Ã³": "o",
+    "Ãµ": "o",
+    "Ãº": "u",
+    "â‚¬": "EUR",
+    "NÂ°": "No",
+    "n.o": "No"
+  },
+  "providers": [
+    {
+      "provider_id": "vodafone_pt",
+      "score": 8.508,
+      "provider_name": "Vodafone Portugal",
+      "provider_specific_extraction_tips": [
+        "Portuguese Vodafone documents often use 'No Documento' for the invoice number.",
+        "The billing period is often written as 'Periodo de faturacao: 1 out a 31 out'.",
+        "The total is usually close to 'Total da fatura com IVA' or 'Valor deste mes'."
+      ],
+      "common_ocr_corrections": {},
+      "known_invoice_layouts": [
+        {
+          "layout_id": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_02.png",
+          "invoice_type": "telecom",
+          "field_markers": [
+            "invoice_number_present",
+            "invoice_date_present",
+            "payment_due_date_present",
+            "total_value_present"
+          ],
+          "successful_fields": [
+            "buyer_address",
+            "buyer_name",
+            "buyer_vat_number",
+            "consumption_end_date",
+            "consumption_start_date",
+            "currency",
+            "invoice_date",
+            "invoice_number",
+            "invoice_type",
+            "payment_due_date",
+            "provider_name",
+            "provider_vat_number",
+            "service_plan_name",
+            "total_value"
+          ],
+          "extraction_warnings": "null",
+          "observed_at": "2026-06-09T14:48:16+00:00"
+        },
+        {
+          "layout_id": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_03.png",
+          "invoice_type": "telecom",
+          "field_markers": [
+            "invoice_number_present",
+            "invoice_date_present",
+            "payment_due_date_present",
+            "total_value_present"
+          ],
+          "successful_fields": [
+            "buyer_address",
+            "buyer_name",
+            "buyer_vat_number",
+            "consumption_end_date",
+            "consumption_start_date",
+            "currency",
+            "invoice_date",
+            "invoice_number",
+            "invoice_type",
+            "payment_due_date",
+            "provider_name",
+            "provider_vat_number",
+            "service_plan_name",
+            "total_value"
+          ],
+          "extraction_warnings": "null",
+          "observed_at": "2026-06-09T14:48:16+00:00"
+        },
+        {
+          "layout_id": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_05.jpg",
+          "invoice_type": "telecom",
+          "field_markers": [
+            "invoice_number_present",
+            "invoice_date_present",
+            "payment_due_date_present",
+            "total_value_present",
+            "total_vat_present",
+            "consumption_present"
+          ],
+          "successful_fields": [
+            "currency",
+            "invoice_date",
+            "invoice_number",
+            "invoice_type",
+            "payment_due_date",
+            "provider_address",
+            "provider_name",
+            "provider_vat_number",
+            "service_plan_name",
+            "subtotal_value",
+            "total_value",
+            "total_vat",
+            "unit_type",
+            "units_of_consumption"
+          ],
+          "extraction_warnings": "null",
+          "observed_at": "2026-06-09T14:48:16+00:00"
+        }
+      ],
+      "validated_examples": [
+        {
+          "signature": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_02.png|FT 101/027950647",
+          "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_02.png",
+          "ocr_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_02_selected_text.txt",
+          "valid_invoice": "true",
+          "validated_fields": {
+            "invoice_type": "telecom",
+            "invoice_number": "FT 101/027950647",
+            "invoice_date": "2021-11-05",
+            "currency": "EUR",
+            "payment_due_date": "2021-11-05",
+            "provider_name": "Vodafone Portugal, Comunicações Pessoais S.A.",
+            "provider_vat_number": "2544190",
+            "buyer_name": "CARREGA SN",
+            "buyer_vat_number": "027950647",
+            "buyer_address": "CARREGA 3230-205 PENELA Valor deste mês",
+            "service_plan_name": "Red Infinity SMbps",
+            "consumption_start_date": "2021-10-01",
+            "consumption_end_date": "2021-10-31",
+            "total_value": "125.25"
+          },
+          "extraction_warnings": "null",
+          "added_at": "2026-06-09T14:48:16+00:00"
+        },
+        {
+          "signature": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_03.png|FT 101/027950647",
+          "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_03.png",
+          "ocr_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_03_selected_text.txt",
+          "valid_invoice": "true",
+          "validated_fields": {
+            "invoice_type": "telecom",
+            "invoice_number": "FT 101/027950647",
+            "invoice_date": "2021-11-05",
+            "currency": "EUR",
+            "payment_due_date": "2021-11-05",
+            "provider_name": "Vodafone Portugal, Comunicações Pessoais S.A.",
+            "provider_vat_number": "2544190",
+            "buyer_name": "CARREGA SN",
+            "buyer_vat_number": "027950647",
+            "buyer_address": "CARREGA 3230-205 PENELA Valor deste mês",
+            "service_plan_name": "Red Infinity SMbps",
+            "consumption_start_date": "2021-10-01",
+            "consumption_end_date": "2021-10-31",
+            "total_value": "125.25"
+          },
+          "extraction_warnings": "null",
+          "added_at": "2026-06-09T14:48:16+00:00"
+        },
+        {
+          "signature": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_05.jpg|N502023036026128",
+          "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_05.jpg",
+          "ocr_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_05_selected_text.txt",
+          "valid_invoice": "true",
+          "validated_fields": {
+            "invoice_type": "telecom",
+            "invoice_number": "N502023036026128",
+            "invoice_date": "2023-08-31",
+            "currency": "TL",
+            "payment_due_date": "2023-10-16",
+            "provider_name": "VODAFONE TELEKOMUNIKASYON A.S.",
+            "provider_vat_number": "9250353261",
+            "provider_address": "Vodafone Plaza Maslak 34398 Istanbul",
+            "service_plan_name": "Red Tarifem 20GB",
+            "units_of_consumption": "20.00",
+            "unit_type": "GB",
+            "subtotal_value": "562.92",
+            "total_vat": "137.16",
+            "total_value": "563.00"
+          },
+          "extraction_warnings": "null",
+          "added_at": "2026-06-09T14:48:16+00:00"
+        }
+      ],
+      "human_reviewer_feedback": [],
+      "validation_history": [
+        {
+          "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_02.png",
+          "valid_invoice": "true",
+          "missing_required_fields": [
+            "provider_address",
+            "units_of_consumption",
+            "unit_type",
+            "subtotal_value",
+            "total_vat"
+          ],
+          "recorded_at": "2026-06-09T14:48:16+00:00"
+        },
+        {
+          "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_03.png",
+          "valid_invoice": "true",
+          "missing_required_fields": [
+            "provider_address",
+            "units_of_consumption",
+            "unit_type",
+            "subtotal_value",
+            "total_vat"
+          ],
+          "recorded_at": "2026-06-09T14:48:16+00:00"
+        },
+        {
+          "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_05.jpg",
+          "valid_invoice": "true",
+          "missing_required_fields": [
+            "buyer_name",
+            "buyer_vat_number",
+            "buyer_address",
+            "consumption_start_date",
+            "consumption_end_date"
+          ],
+          "recorded_at": "2026-06-09T14:48:16+00:00"
+        }
+      ]
+    },
+    {
+      "provider_id": "epal",
+      "score": 0.5054,
+      "provider_name": "EPAL",
+      "provider_specific_extraction_tips": [
+        "EPAL invoice numbers often appear near 'FATURA no' or 'Fatura no'.",
+        "Payment due dates often appear near 'Data limite de pagamento' or in payment-reference blocks.",
+        "Total values may appear as 'Montante' or 'Total' with EUR."
+      ],
+      "common_ocr_corrections": {},
+      "known_invoice_layouts": [
+        {
+          "layout_id": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\agua_01.webp",
+          "invoice_type": "water",
+          "field_markers": [],
+          "successful_fields": [
+            "buyer_vat_number",
+            "invoice_type",
+            "provider_name",
+            "provider_vat_number"
+          ],
+          "extraction_warnings": "OCR text did not contain enough invoice signals. | invoice_number not extracted. | invoice_date not extracted. | total_value not extracted.",
+          "observed_at": "2026-06-09T14:48:16+00:00"
+        },
+        {
+          "layout_id": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\agua_02.png",
+          "invoice_type": "water",
+          "field_markers": [
+            "invoice_number_present",
+            "invoice_date_present",
+            "total_value_present"
+          ],
+          "successful_fields": [
+            "buyer_address",
+            "buyer_name",
+            "buyer_vat_number",
+            "currency",
+            "invoice_date",
+            "invoice_number",
+            "invoice_type",
+            "provider_name",
+            "provider_vat_number",
+            "service_plan_name",
+            "total_value"
+          ],
+          "extraction_warnings": "null",
+          "observed_at": "2026-06-09T14:48:16+00:00"
+        },
+        {
+          "layout_id": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\agua_04.png",
+          "invoice_type": "water",
+          "field_markers": [
+            "invoice_number_present",
+            "total_value_present"
+          ],
+          "successful_fields": [
+            "buyer_address",
+            "buyer_name",
+            "consumption_end_date",
+            "consumption_start_date",
+            "currency",
+            "invoice_number",
+            "invoice_type",
+            "provider_name",
+            "provider_vat_number",
+            "service_plan_name",
+            "total_value"
+          ],
+          "extraction_warnings": "invoice_date not extracted.",
+          "observed_at": "2026-06-09T14:48:16+00:00"
+        }
+      ],
+      "validated_examples": [
+        {
+          "signature": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\agua_01.webp|null",
+          "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\agua_01.webp",
+          "ocr_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_selected_text.txt",
+          "valid_invoice": "false",
+          "validated_fields": {
+            "invoice_type": "water",
+            "provider_name": "EPAL",
+            "provider_vat_number": "800208101",
+            "buyer_vat_number": "000061710"
+          },
+          "extraction_warnings": "OCR text did not contain enough invoice signals. | invoice_number not extracted. | invoice_date not extracted. | total_value not extracted.",
+          "added_at": "2026-06-09T14:48:16+00:00"
+        },
+        {
+          "signature": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\agua_02.png|201401427252",
+          "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\agua_02.png",
+          "ocr_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_02_selected_text.txt",
+          "valid_invoice": "true",
+          "validated_fields": {
+            "invoice_type": "water",
+            "invoice_number": "201401427252",
+            "invoice_date": "2014-07-28",
+            "currency": "EUR",
+            "provider_name": "EPAL",
+            "provider_vat_number": "105514452",
+            "buyer_name": "JOANA CATARINA ARAÚJO MAIA AMÂNDIO",
+            "buyer_vat_number": "627140845",
+            "buyer_address": "6 ão de Roturas | &",
+            "service_plan_name": "DOMÉSTICO",
+            "total_value": "2333.38"
+          },
+          "extraction_warnings": "null",
+          "added_at": "2026-06-09T14:48:16+00:00"
+        },
+        {
+          "signature": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\agua_04.png|FT",
+          "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\agua_04.png",
+          "ocr_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_04_selected_text.txt",
+          "valid_invoice": "true",
+          "validated_fields": {
+            "invoice_type": "water",
+            "invoice_number": "FT",
+            "currency": "EUR",
+            "provider_name": "EPAL",
+            "provider_vat_number": "000078370",
+            "buyer_name": "FRANCISCO MARIA DE LEMOS SIMIGES CORREIA",
+            "buyer_address": "e-mail geraLepaláiad ppt AV ROMA",
+            "service_plan_name": "Faltas de Agua (24h/dia - chamada",
+            "consumption_start_date": "2023-08-02",
+            "consumption_end_date": "2023-09-16",
+            "total_value": "79.37"
+          },
+          "extraction_warnings": "invoice_date not extracted.",
+          "added_at": "2026-06-09T14:48:16+00:00"
+        }
+      ],
+      "human_reviewer_feedback": [],
+      "validation_history": [
+        {
+          "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\agua_01.webp",
+          "valid_invoice": "false",
+          "missing_required_fields": [
+            "invoice_number",
+            "invoice_date",
+            "currency",
+            "payment_due_date",
+            "provider_address",
+            "buyer_name",
+            "buyer_address",
+            "service_plan_name",
+            "consumption_start_date",
+            "consumption_end_date",
+            "units_of_consumption",
+            "unit_type",
+            "subtotal_value",
+            "total_vat",
+            "total_value"
+          ],
+          "recorded_at": "2026-06-09T14:48:16+00:00"
+        },
+        {
+          "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\agua_02.png",
+          "valid_invoice": "true",
+          "missing_required_fields": [
+            "payment_due_date",
+            "provider_address",
+            "consumption_start_date",
+            "consumption_end_date",
+            "units_of_consumption",
+            "unit_type",
+            "subtotal_value",
+            "total_vat"
+          ],
+          "recorded_at": "2026-06-09T14:48:16+00:00"
+        },
+        {
+          "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\agua_04.png",
+          "valid_invoice": "true",
+          "missing_required_fields": [
+            "invoice_date",
+            "payment_due_date",
+            "provider_address",
+            "buyer_vat_number",
+            "units_of_consumption",
+            "unit_type",
+            "subtotal_value",
+            "total_vat"
+          ],
+          "recorded_at": "2026-06-09T14:48:16+00:00"
+        }
+      ]
+    }
+  ]
+}

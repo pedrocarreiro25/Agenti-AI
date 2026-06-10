@@ -1,0 +1,2741 @@
+[
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\agua_01.webp",
+    "file_type": "webp",
+    "extraction_method": "baseline_ocr",
+    "selected_text": "Se \nEPAL\nCódigo de Cliente\n29612063\nmissa \noe BARROS viana\nRMeuema \nvaz oa Siva\nanc\n3750-481 USBOA\neT \nUna grs 800208101 (28H) ——\nComunicação \nde letras no a 20211112\nMarcação Online\nde atendimento nas Lojas EPAL\nmana nana isto lt payshop\nDAMA\n2961206217402306161110 613 000061710 \n14",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_baseline_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_baseline_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_baseline_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\agua_01_baseline_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\agua_01_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.197,
+        "character_count": 284,
+        "word_count": 45,
+        "date_count": 0,
+        "money_count": 0,
+        "vat_number_count": 2,
+        "invoice_keyword_count": 2,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.021,
+        "warnings": [
+          "No date patterns detected.",
+          "No money values detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "iva",
+            "cliente"
+          ],
+          "provider_keywords": [
+            "epal"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.022,
+          "symbol_ratio": 0.007
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected.",
+        "No money values detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\agua_01_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_01_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.197,
+        "character_count": 284,
+        "word_count": 45,
+        "date_count": 0,
+        "money_count": 0,
+        "vat_number_count": 2,
+        "invoice_keyword_count": 2,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.021,
+        "warnings": [
+          "No date patterns detected.",
+          "No money values detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "iva",
+            "cliente"
+          ],
+          "provider_keywords": [
+            "epal"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.022,
+          "symbol_ratio": 0.007
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected.",
+        "No money values detected."
+      ]
+    },
+    "quality_score": 0.197,
+    "requires_ocr": true,
+    "requires_manual_review": true,
+    "warnings": [
+      "No dates found in selected text.",
+      "No money values found in selected text.",
+      "Selected OCR quality score is below manual-review threshold."
+    ],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\agua_02.png",
+    "file_type": "png",
+    "extraction_method": "enhanced_ocr",
+    "selected_text": "FATURA no 201401427252 emitida em 2014.07.28\nEmpresa Portuguesa \ndas Aguas Livres, SA.\nAw. Liberdade, \n24 - 1750-144 Lisos\nvs EPAL\nJOANA CATARINA ARAÚJO MAIA AMÂNDIO\n6 \não de \nRoturas | & \nx \nRI? DEMAIO\n(FeitasdeAgua \n[9002245 ) \n67\n1300-472 USBOA\nimyAQUA \n— Nova aplicação gratuita para smartphones\nPermite-lhe gerir os seus dados de Cliente, comunicar leituras, consultar contas da água por regularizar, e muito mass. Instale já no seu telemóvel!\n1 valor didrio da Quota de serviço é calculado pela seguinte fórmula (tanfa mensal x 12 / 365 das)\nJA TRH é um valor faturado e cobrado pela EPAL mas constitui receita do Estado\nFr€ti: __\n8 \n36\nFit | aden do Contato) \n>\nê \nE \near \nE \npo tda\n$ \nBR \n[Ne \nSevere \n20140623 a 20140721\ng a \ne \n° \no \nE \nCONTAS DE ÁGUA \n182476\n$ \n33 \nMorada Postal (Principal) -R 1o DE MAIO 67 \nCONTAS DE TERCEIROS \n397.17\n5 \nMorada de Abastecmento -R 1o DE MAIO 69 9°67 \nNA \nLAS\nê i \nClasse/Tipo Facturação - DOMÉSTICO\n: \nà \n—|códgo \nLocal - 537942\nCódigo Entidade - 611779\nê \n| \nTotal \n233338\no \nps\nDocumentos \nData de \nValor \nOatalinte = Obs\npor Reguarizar \nEmissão \nPagamento \nCoenunicação \nletura no da 20140821\nFatura no 201401427252 \n20140728 = 2.333.38+ \n20140814 \nLinha gratis. 800 201 101 \nIndicar \no cód Chente\nSae www epa pVEpalNethem! \n18910556\nr \nq \n\\ \n/\n( TALAO DE LEITURA ÓTICA )\nC \nEste valor pode ser pago no Multibanco, CTT Agentes PayShop ou nas lojas da EPAL \n)\nReferências para Adesio/Aheração \ndo Débito Direto-SEPA\nC Credor - EPAL - PITT N \nNúmero da Autorização - \n(00189105564 \n)\nPARA PAGAMENTO EM AGENTES “Hi payshop\nim Empresa Portuguesa \ndas Águas Livres. SA.\n‘Av. Liperdade. \n24 - 1250-144 Lisboa\n— a \nTO\nEntidade \n20811 \n6209000691 4452262702333380233338 \n1408 | 400000\nReferência \n452 262 740 \nJOANA CATARINA ARAUIO MAIA AMANDIO\nMontante \n2 333.38 EUR \nRIoDEMAO\no \n9 \nDATA LENTE DK PAGAMENTO\nCaso \n1300472 USBOA \n201408.14\na9 105514452 \nEntidade\n627140845 6 \nCOO CLENTE \nTOO LOCAL \nCONTA CIENTE N” \nVALOR\ninedoranoia \n| \n18910556 [Ss 611779 a || \n537942 \n201421444261 \n|| \n233338 \n|\n13 002333386 \nMontante\nALEITURA OPTICA. \nNÃO \nNAO ACRAFAR \nOW\n1891055144522627140845 613 002333386 \n14",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_02_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_02_enhanced_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_02_enhanced_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_02_enhanced_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_02_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\agua_02_enhanced_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\agua_02_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_02_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_02_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_02_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.194,
+        "character_count": 874,
+        "word_count": 165,
+        "date_count": 0,
+        "money_count": 0,
+        "vat_number_count": 1,
+        "invoice_keyword_count": 3,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.031,
+        "warnings": [
+          "No date patterns detected.",
+          "No money values detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "pagamento",
+            "agua"
+          ],
+          "provider_keywords": [
+            "aguas"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.158,
+          "symbol_ratio": 0.01
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected.",
+        "No money values detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\agua_02_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_02_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_02_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_02_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.485,
+        "character_count": 2143,
+        "word_count": 336,
+        "date_count": 0,
+        "money_count": 1,
+        "vat_number_count": 4,
+        "invoice_keyword_count": 8,
+        "provider_keyword_count": 2,
+        "consumption_unit_count": 0,
+        "noise_score": 0.049,
+        "warnings": [
+          "No date patterns detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "factura",
+            "documento",
+            "pagamento",
+            "total",
+            "valor",
+            "cliente",
+            "agua"
+          ],
+          "provider_keywords": [
+            "epal",
+            "aguas"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.122,
+          "symbol_ratio": 0.016
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected."
+      ]
+    },
+    "quality_score": 0.485,
+    "requires_ocr": true,
+    "requires_manual_review": true,
+    "warnings": [
+      "No dates found in selected text.",
+      "Selected OCR quality score is below manual-review threshold."
+    ],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\agua_03.jpg",
+    "file_type": "jpg",
+    "extraction_method": "baseline_ocr",
+    "selected_text": "ve\nEsposende Ambiente\nEAMB - Esposende Ambiente, EM\nTravessa Conde Agrolongo N°10, 4740-245 Esposende\nCapital Social 20.250.000,00 euros\nMatric. No 00002/050105 da C.R.C de Esposende\nNIPC 507 068 076\nER Ea\napcer” apcer e\nNu r1s09001 ee as\nTiso 4001 \nsa\nTiso asoo!\nTitular do contrato\nMARIA \n+ \nas\nUtilizador n.o:\nNIF: \nmama\nDocumento nÃ£o autenticado\nApoio ao Utilizador\nHorário - Segunda a Sexta das 8h30 às 16h00\nGeral \n253 969 380 (Chamada rede fixa nacional)\nAvarias \n253 969 388 (chamada rede fixa nacional)\n968 042 328 (Chamada rede móvel nacional)\nLeituras SMS 934 020 875 (chamada rede móvel nacional)\nE-Mail \ngeral@esposendeambiente \npt\nRegiste-se em www.esposendeambiente \npt\nATCUD: 0\nMARIA \n+ \n=\nTravessa\nEsposende\n4740-302 ESPOSENDE\n2? VIA DE FATURA/RECIBO\nr\nFatura: FTA 2025000/22210\nData de Emissão\n21/02/2025\nfevereiro 2025\nData limite de pagamento\n14/03/2025\nValor da fatura atual\n€ 39.32\nLocal de Consumo\nTravessa\n4740-302 ESPOSENDE\nTipo de utilizador\nDOMÉSTICO-SANEAMENTO\nResumo de Faturação (fevereiro)\n=<\nValor em €\n~\nAgua \n18,0868\nSaneamento \n10,7959\nResíduos Sólidos \n6,2200\nTRH/TGR \n2,4550\nIVA \n1,7600\nOutros \n0,0023\nTotal da Fatura \n€ 39.32\nFaturas em atraso à data de emissão \n21/02/2025\nMensagem\nSe o pagamento se cruzar com este aviso, queira por favor considerá-lo sem efeito.\nO Pagamento desta fatura não regulariza a dívida de eventuais faturas em atraso.\n0.00€\n39.32€\nJuros de mora :\nTotal :\nVálido como recibo após boa cobrança - processado por computador\n2o VIA DE FATURA/RECIBO\nN.o Utilizador \nMB\nos \nus\nData de Emissão \nENTIDADE\n21/02/2025 \nREFERENCIA\nData limite de pagamento | MONTANTE\n14/03/2025\nuso \nPeríodo de faturação: fevereiro\nsm am \n° 8\n39,32 \n0.00€\n39.32€\nJuros de mora :\nTotal:\nO talão emitido \npe\nATCUD: 0",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_03_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_03_baseline_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_03_baseline_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_03_baseline_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_03_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\agua_03_baseline_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\agua_03_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_03_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_03_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_03_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.633,
+        "character_count": 1753,
+        "word_count": 300,
+        "date_count": 5,
+        "money_count": 5,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 10,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 1,
+        "noise_score": 0.024,
+        "warnings": [],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "recibo",
+            "documento",
+            "pagamento",
+            "total",
+            "valor",
+            "iva",
+            "nif",
+            "consumo",
+            "agua"
+          ],
+          "provider_keywords": [
+            "esposende ambiente"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.09,
+          "symbol_ratio": 0.008
+        }
+      },
+      "errors": [],
+      "warnings": []
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\agua_03_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_03_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_03_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_03_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.603,
+        "character_count": 1725,
+        "word_count": 304,
+        "date_count": 4,
+        "money_count": 2,
+        "vat_number_count": 1,
+        "invoice_keyword_count": 10,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 1,
+        "noise_score": 0.043,
+        "warnings": [],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "recibo",
+            "documento",
+            "pagamento",
+            "total",
+            "valor",
+            "iva",
+            "nif",
+            "consumo",
+            "agua"
+          ],
+          "provider_keywords": [
+            "meo"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.164,
+          "symbol_ratio": 0.014
+        }
+      },
+      "errors": [],
+      "warnings": []
+    },
+    "quality_score": 0.633,
+    "requires_ocr": true,
+    "requires_manual_review": false,
+    "warnings": [],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\agua_04.png",
+    "file_type": "png",
+    "extraction_method": "enhanced_ocr",
+    "selected_text": "ATCUDI P67 M4K5 2262002 \nPag. iz\n[do fi e | \ndesde tases \nes es tJasm MsSCS E\nEPAL\nS\nEmprots Po = ston das Águas Livres, S.A \noc a\nAv. Liberdade, \n24 — 1250-144 LISBOA \n30650776\n“xcs 2 CV de \nea 16> dO IA = Pessoa 40 en? 0 2G a = Cache Socal? ee ae\nmzs09 19 \nDE Di\nAtendimento aChentes [2dh/dia - custo deuma \nala 221 til\nchamada para a rede fixa nacional]\nComunicação de Leituras (24h/dia «chamada gratuíta) \n500 20 101\nComunicação de Roturas [2dh/dia - chamada gratuita] \n$00 201 600\nFaltas de Agua (24h/dia - chamada \nq rstuita) \nMO 222 425 \nas\nSite \nwwwc pal.pt \nFRANCISCO MARIA DE LEMOS SIMIGES CORREIA\ne-mail \ngeraLepaláiad ppt \nAV ROMA\nseEDTO\n22542 \nTotelaede Degas aeleroa eles Desce qeu eles Meg da cs eas el gers\n“etd 20052200 Dora \nqua \neect \n1000-265 LISBOA\nSt: eta ct\nev. Coraa Yai oa de oanca\n“e. MG MS 2 Dera \ncravo enc sucart\nSte woes. anovct\nValor a Pagar 78.37 € \nPagavel até 2023.10.11\nComunicação de leituras no dia 2023.10.16 \nLinha gratuita 800201 101 (24H)ouwww.epal.pt/EPALnet\nepa deste a aceda \ne rece: toda a waa afecções. \nDoqumentos \nData de \nEat limite Obs\nSs da \neC \nobs cee \nts eerttin dlesrtex sad er, \npor Regularizer \nêmissão \nwise \nPagamento\nvas ‘Herr acdc er anita ta dangua \ngant’ \nFata 1 A202 22502 \nN20V9 \nTart \n202502\" 5\nSsegcecnmare Tata cede mee: cna err Seda fe: de SO S07 tes ele: \naq aa,\ncette nek it: a \na tg a\nResumo da FATURA no FT 20230/02262802\nperiodo de Faturação de 2023.08.02 a 2023.09.16\n= \nEMAL -Aoartec “ectode Pe. \na \n32, 4423\n< +. \nÉ \nCM Liou - Saceamerto \n21,4241\n=i \nCE Lica - Met doce aaa \nEcs\n23 \nOg \nLP Liwa-Adcora \n42351\n$2, \nIARAS \nSEA\n= 22\nsta \nTotal \n7837€\n22\" | \nSaiba mais em \nDados do contrato\n3 \n+ \n&\nÉ 5 aa \nportaldaagua.pt \n“taacde Cevtate: 52440 $60 W234 \nDI Iv OS SÃO COR à\nEis: \n12 gas\nnã us \nq \nPo \n- Ta \nfark ecco Iga cr\nBy RE \n| \n| \n] \n| \nl \n. \nRE \n= \n=\n= H E \nNão al desperdice \nterna teste DE nad \nDATADO\n= q. \neres Assis creck: A IDA SAIO\n. E \nE \ntara ee ra A ataca ras Gane Sx: \nCamig” ne eles Sata rações OV SO co\n“ros \nlo. \nCéel \nge de wea \nCTLTAZ\nE 5 \n; \nSitad ras ara red da saa atest deh: caciea \nCel ge de: Zatdak: \n2339409\n“ \n2 \nte peles oculos reis fees al feeriça.\nCusto média unitária doseriço em \nGita \nContador da Água\nREI OLA le Un E SS CRE CDE SL ESC \neR DL cct 4 \nlares \nNo de Contador \nCalibre \nData Instalação\nee \nquado RE ES \ned \nPrine. \nSAPPEL \nCOOL Taz \n15 \nDD O5. 72\nrrr ee ee) Rr E E \nPR \nRE PR \nSec\near, oe \nek. CASE ERG\nE PAL \nTALÃO DE CONTROLO \nReferencias para A le ração ou Cancelamento do Débito Direto SERA \nTALÃO DE LEITURA ÓTICA\n» Grupa gaze da Pascual \nSxl O02 YI) Comes SP O92 ecrena “ight de: Aster zaçõe: 5200092020\n-—\nRm \nPEGAMENTO POR MILLTIBANCO \n= \nFa \nfa\nMB \npepino \nPAGAVEL NOS CTT, LOJAS PAYSHOP, MULTIBANCO OU NOS BALCÕES DA EPAL\n“POGMMONTO DE SERVIÇOS \nHi \nh\nPARA PLGA MENTO El AGENTES\" \ndySho|\nENTIDADE \n20811 \násia \nP\nREFERENCIA \n401 456 338 | FRANCISCO MARIA DE LEMOSSIMÕESCORREIA\nMONTANTE \n79,37 EUR | avROMA\na ear \nsé Em \n82090006922401456200078270007 827221011000009\no \n: \n1000 55 LEBD \nA\nCATS LIMITE DE POG AE NT\n2003.10.11\nCÓD CLIENTE \nCÓD ENTIDADE \nCÓD LOCAL \nCONTA CLIENTE No \nVALOR.\n50659774 \n2339809 \n1174762 \nMIZE ZS2 \n78,37\nRESERVADO LEITURA ÓTICO. NÃO DOBRGOR. NÃO CORIMBGR. NÃO MGRAFOR.\n3063977234014563111035 613 000078370 \n14",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_04_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_04_enhanced_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_04_enhanced_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_04_enhanced_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_04_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\agua_04_enhanced_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\agua_04_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_04_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_04_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_04_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.421,
+        "character_count": 2177,
+        "word_count": 360,
+        "date_count": 0,
+        "money_count": 1,
+        "vat_number_count": 1,
+        "invoice_keyword_count": 7,
+        "provider_keyword_count": 3,
+        "consumption_unit_count": 0,
+        "noise_score": 0.034,
+        "warnings": [
+          "No date patterns detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "pagamento",
+            "total",
+            "valor",
+            "cliente",
+            "agua",
+            "gas"
+          ],
+          "provider_keywords": [
+            "nos",
+            "epal",
+            "aguas"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.069,
+          "symbol_ratio": 0.011
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\agua_04_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_04_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_04_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_04_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.472,
+        "character_count": 3271,
+        "word_count": 603,
+        "date_count": 0,
+        "money_count": 1,
+        "vat_number_count": 1,
+        "invoice_keyword_count": 7,
+        "provider_keyword_count": 3,
+        "consumption_unit_count": 0,
+        "noise_score": 0.05,
+        "warnings": [
+          "No date patterns detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "pagamento",
+            "total",
+            "valor",
+            "cliente",
+            "agua",
+            "gas"
+          ],
+          "provider_keywords": [
+            "nos",
+            "epal",
+            "aguas"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.09,
+          "symbol_ratio": 0.017
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected."
+      ]
+    },
+    "quality_score": 0.472,
+    "requires_ocr": true,
+    "requires_manual_review": true,
+    "warnings": [
+      "No dates found in selected text.",
+      "Selected OCR quality score is below manual-review threshold."
+    ],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\agua_05.jpg",
+    "file_type": "jpg",
+    "extraction_method": "enhanced_ocr",
+    "selected_text": "donde \nPF\nSee \nF\nra \nbem \nCr \nana \na ço \nCI a \ned \no Pina \nOR, \nCi \nRel a dO \nTR, \no\npor pray\nErrá veio pore \nDeira\nAAT \nURADAD \n6M \nELFOS \nCRER \nESTES \n00 \nRADAR \n= a0 \nCOMO \nAO \nBO AP \nOR BoA CEA,\nFATURA No \n202400127075\n=, \n| \nF\n= águas do planalto \no\nÉ \n| \nE \n21-04-2004\nData de Vencimento : \n11-07-2024.\nEstação de Tratamento de água\n3464-005 Mosteire de Fráguas - Toa dala\nDADOS DO CONTRATO\n— \nIANETE CHAQUILA CAETANO\nE \nPRE \nTE\nTarifária: \n:\nContador no: \nDONDE SE 2290\nrar \nbel dó mms\nRoca te cones \nRUA SACADURA CABRAL 28, 1 £59 \n- VILA \nJANETE CHAQUILA CAETANO\nFRANCA DE 21h \n— 2600-2530 LEGENDA, \nRUA SACADURA \n28, 1 ESQ -\nLOCAL DE CONSUMO \nN\" = \nyoanoy \nVILA FRANCA \nDE XIRA\nENTIDADE No: \niai\n2600-230 LISBOA\nNo DO CLIENTE: \n543110\nCOMUNIQUE A SUM LEITURA DE 11-08-2024. 4 12-08-2024\nAPOIO \n232 001 470 \nCl a Cd RE cn Dn \nvrarar aguasdoplanalo \npt\nAO CLIENTE \n(Eis pai via na ncia e \nchentes @aguasdoplanalte.pt\n= \nPed \nq \npol \nFATURA SERVIÇOS\n: \nDO\nAGUA \nSANEAMENTO \nRESÍDUOS \nOUTROS\nLaptação \nEecolha \nSecolha \nQutros serviços\nSE \ne \nEE \ne \nAMBIENTE\n26,57 € \n0,00 € \nPAE \n2,18 € \n36,17 €\naa o Ep \nRecafa do Municipio \nFieneiia do Municipio \nFionata da Diversas Entidades \nA PAGAR ATÉ 11-07-\nVÁRIOS ASSUN TOS\nUM SO NUMERO\nnicação da leituras\n= \nad hd\no Gob\nRa\no aa] APOIO AD CU\n232 001 4\nMensagens\nA Agu \ndo Maneitc raspas E sum \nDean \nqua \no \ndos darice: passeia que recolha d fado Sa soci COM ME regras decorates do\nMEIO (Ho [ELO EVE occ cornraiiar a noRas police \ncia \nPeet \nTOTAL A PAGAR \n36,17 E\nNRO -MES 1 SEL E-MAR, AGIA À A PUMA E LETÓNIA! \nTara \nCubs \nAMEMTO É \nNesta \ncontardlionte \nnão: \neso \nbecietdin<\nMESÍDUDES thorscipão e Corciata. \nLda Mepusiios 18 MEDO Pome TESES \nVOS DADA CUSSION \nfe Le S|, Torto Combi \noutras documentos que estejam em avisos\nContec Au - EAA \nde corte não vencidos ou cm análiso, à data\nda criação desta tatura.\nPagamento por Débito Direto",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_05_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_05_enhanced_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_05_enhanced_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_05_enhanced_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_05_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\agua_05_enhanced_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\agua_05_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_05_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_05_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_05_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.115,
+        "character_count": 393,
+        "word_count": 63,
+        "date_count": 0,
+        "money_count": 0,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 3,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.053,
+        "warnings": [
+          "No date patterns detected.",
+          "No money values detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "cliente",
+            "agua"
+          ],
+          "provider_keywords": [
+            "aguas"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.127,
+          "symbol_ratio": 0.018
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected.",
+        "No money values detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\agua_05_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_05_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_05_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_05_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.495,
+        "character_count": 1890,
+        "word_count": 336,
+        "date_count": 4,
+        "money_count": 2,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 7,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.029,
+        "warnings": [],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "documento",
+            "pagamento",
+            "total",
+            "cliente",
+            "consumo",
+            "agua"
+          ],
+          "provider_keywords": [
+            "aguas"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.128,
+          "symbol_ratio": 0.01
+        }
+      },
+      "errors": [],
+      "warnings": []
+    },
+    "quality_score": 0.495,
+    "requires_ocr": true,
+    "requires_manual_review": true,
+    "warnings": [
+      "Selected OCR quality score is below manual-review threshold."
+    ],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\agua_06.jpg",
+    "file_type": "jpg",
+    "extraction_method": "enhanced_ocr",
+    "selected_text": "(QOniem A esleval tara Dag al)\nAguas 2 Energia \ndo Porte\nHiss Beare ole Mee Sartre, SBE\nADO La? Pere\nNF BOTT Lote\nE \n851 5 Ho dos\nem agua ogro pt\nhat a para \nERP]\nTitular da conta: Krones Hituamata HipuuwaNamalya\nClenta/ Conta:\nTER ar oa?\nMorada: 155035\nNE 12743240\nLocal da Consumo: Castelo branco\nCódigo postal \n6000-082\nResumo de faturação\nO \n@\nDocumento de Pagamento\nDecumenão \nEmissão:\n221 102700072898 \n2023-05-17\nKromes Hiuamai HipauuwaNamalya\nRua avenida infane Sagres número 7 esquerdo\nPeriodo Faturação: 2093-04-20) — 202 35 17\nAqua \nÁguas Residuais \nTRHTGR \nResíduos Urbanos \nCuras \nValor a Pagar\n10,0€: \n4,766 \n0,83€ \nB,22€ \n0,00€ \n527,40€\nHistórico de Consumo \nConta Corrente -\nSaldo Anbenor \nIADE \n28.43\nA \n= \nFatura 1182715986 - Instalação 145935 \nan 17 \nELA\nRL Do \no \nEsses \nFatura UPN \n- Instalação 155035 \nMST? \n12,06\nima \nCA \nO \n@ i \nAA \nhs \nÀ \n~\n1 \nLh \na \n[| \nUh \nnm \nE \nLd \nmm \na\nDER \nMM \nFEM \nMAR MI \nMAL IN \nNEM \nComunicação \nde Leituras\nGaeta mcio iámicme OU \ndiag OE \nPelada de Comun 85999. 04-12 « 2023-05-44\nMédia Cansuma dos últimos ? meses \nasd \nes: ma “fblololojolo! \nol \njo a\n11000 litros a cada 30 dias \nSO 20004 \nae \na\nMensagens \n—\nCO Ondo pagamento destafatura ny pram define. apts a data limite, poderá condurr ac seu envio para execução fiscal, acess odo purçes demorac cena =\nAscláusulas contratuais do seu contrato foram aheradas:consulte o seu novo contrato em\nneordar com as alterações pode ao he a resolução do con\nSAU Period \nBagel «ão \nVaan Chey\nbakaodigital aquasdoportn \npt\nWWW aquasdoportopi no menu chente, contrato, claus\nHUTS PAO SET revistos ApOs 2 OMissao deste documento, Por favor consule o periodo atualizado no balcao digita\nPara merrcicio de direitos sobre dades pessoais aceda ao Ralção Digital, Qutres assuntos de RGPD utilizo o endereço: protecaodedagos agudo porto pt\nAdira dO pagamento da fature por Debits Dieta utilizandio og sequintes\ndo Credor (DNC) PISO GAS\nLinha Geral \nLinha Porto\ncodigos numa caa Multibanco: No da Autorização (ADC) 0277248365 es Identifica\nLinha Lelturas\n400 020 004\nPAGAVEL EM: CTT, Multibanco, Payshop OU Balcões",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_06_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_06_enhanced_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_06_enhanced_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_06_enhanced_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_06_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\agua_06_enhanced_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\agua_06_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_06_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_06_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_06_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.135,
+        "character_count": 861,
+        "word_count": 154,
+        "date_count": 0,
+        "money_count": 0,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 5,
+        "provider_keyword_count": 0,
+        "consumption_unit_count": 0,
+        "noise_score": 0.007,
+        "warnings": [
+          "No date patterns detected.",
+          "No money values detected.",
+          "No provider keywords detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "documento",
+            "pagamento",
+            "valor",
+            "consumo"
+          ],
+          "provider_keywords": [],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.071,
+          "symbol_ratio": 0.002
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected.",
+        "No money values detected.",
+        "No provider keywords detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\agua_06_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_06_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_06_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\agua_06_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.556,
+        "character_count": 2101,
+        "word_count": 347,
+        "date_count": 3,
+        "money_count": 2,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 7,
+        "provider_keyword_count": 2,
+        "consumption_unit_count": 0,
+        "noise_score": 0.026,
+        "warnings": [],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "documento",
+            "pagamento",
+            "valor",
+            "consumo",
+            "agua",
+            "gas"
+          ],
+          "provider_keywords": [
+            "nos",
+            "aguas"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.089,
+          "symbol_ratio": 0.009
+        }
+      },
+      "errors": [],
+      "warnings": []
+    },
+    "quality_score": 0.556,
+    "requires_ocr": true,
+    "requires_manual_review": false,
+    "warnings": [],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\gas_01.webp",
+    "file_type": "webp",
+    "extraction_method": "baseline_ocr",
+    "selected_text": "ital\nContém \nAssinatura \nDi\ngalp\nng\nae se \neee\nae \nas\nwes\n0,00€ \n0,00€ \n0,57€\n20 DEZ 2024\nmesmas \nious \nfita \nEmcee\nee\nCELT \nEST\nib BS ve mero \nsecs sp \npenha o Mundo\nep \nGalp sempre\nombustível & 360 Casa (FE +DD) \namao\nCRUZ DACARREIRA 82 20 LISBOA\n150-117 LISBOA\nDÉBITO DIRETO ATIVADO\nA Galp numa app,\nfaturas e leituras\nsempre à mão\nPraszzz105798 00000654461\n20\none\nP5000180003626\"923020'5",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_01_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_01_baseline_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_01_baseline_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_01_baseline_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_01_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\gas_01_baseline_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\gas_01_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_01_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_01_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_01_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.176,
+        "character_count": 391,
+        "word_count": 73,
+        "date_count": 0,
+        "money_count": 2,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 2,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.031,
+        "warnings": [
+          "No date patterns detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "iva"
+          ],
+          "provider_keywords": [
+            "galp"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.11,
+          "symbol_ratio": 0.01
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\gas_01_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_01_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_01_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_01_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.176,
+        "character_count": 391,
+        "word_count": 73,
+        "date_count": 0,
+        "money_count": 2,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 2,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.031,
+        "warnings": [
+          "No date patterns detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "iva"
+          ],
+          "provider_keywords": [
+            "galp"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.11,
+          "symbol_ratio": 0.01
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected."
+      ]
+    },
+    "quality_score": 0.176,
+    "requires_ocr": true,
+    "requires_manual_review": true,
+    "warnings": [
+      "No dates found in selected text.",
+      "Selected OCR quality score is below manual-review threshold."
+    ],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\gas_02.png",
+    "file_type": "png",
+    "extraction_method": "enhanced_ocr",
+    "selected_text": "energio cria energia\nSITE tasa.galp.pt\nLEITURAS 800508 DBO \n(24hdia - Chamada grátish\nIndique a referência O00000000% de 1D ABR = 14 ABR\nAMARIAS ELETRICIDADE \n800506506 \n(24hdia- Chamada grátis)\nLINHA GERAL BOB 503 030\n(2 a Gab, das Sh ks 20h \n= Custo \nde charmada local)\nNOM \nE SORO ODE\nCONCEDE \nDA\nMORADA XXXXXXXXXOXXKX\nLOCALIDADE 200000000XXX2 \nXXX\nCÓDIGO POSTAL XXXX XXX\nFatura; FTOOO1W/10 XXXXX\nData: 16 MAR 2018 \nPeriodo de Faturação: 14 FEV 2018 a 14 MAR 2018\nO valor desta fatura é\n0,00 € \n0,00 € \n| 3,43€ \n| \n10,22 € \n36,77 € \né\nAY \nff \ne pode pagar até\nNa! \n06 ABR 2018 \nE\nEletricidade \nGás Natural \nServiços \nTaxas e Impostos \nIVA \nda\nde Energia \nà\na\nDADOS DO SEU CONTRATO \nMENSAGENS ÚTEIS \n' \nE\nO melhor \n:\nNome \ndo titular \no \ndos portugueses \n:\nXXXXXXXMXXKXKXRXAMXKAXKXAX \nE\né a sua luz.\n4, Galp oferece \n1 mês de eletricidade\na todas as familias portuguesas que dão\nà luz no dia \n1de cada mês.\nDesignação da oferta:\nGalp Eletricidade\na CRC \ndele\nLocal de fornecimento\nXXXXXKXKXXKXKXKKXKKK \nSaiba mais sobre o eletricidade preferida\n; \ndos portugueses em coso.galp.pt\n09 \nLise\nE 1600.21\nN.o de contrato\nTOKXKXX\n4, \nTarte\nNo de contribuinte\n2RRXXARKX\nds \nFone\nAL Phu \nTerie\nCONSERVE ESTE DOCUMENTO - \nválido come recibo depois de autenticado pelos CTT ou talão emitido pelos agentes Payshop \n1 de 3\nCLIENTE No XXX - GALP POWER, 5A \nPAGAVEL EM QUALQUER LOJA CTT, AGENTE PAYSHOP E POSTO DE CORREIOS\nPagamento desta fatura:\n4 ENTIDADE: \n2XXXX\nMB \nREFERÊNCIA: \nOXKXXKKX\nde \nMONTANTE: \n56,77 €\nTALÃO \nDE \nCONTROLO\nData limite \nde pagamento: \n06 ABR 2018\nWILLD \nVENDA \n30 \nDTL\nGuarde o talão de pagamento emitido pelo MB porque serve de comprovativo.\nO não pagamento do documento 14 data de vencimento, implica \nange de juros & tas legal em vigor.\nSAIBA MAIS EM \nao MN\nczas \ncasa.galp.pt \nHE payshop\n4 if \nE\n14 \nRESERVADO A MARCAÇÃO ÓTICA, MÃO DOBRAR, MÃO ESCREVER, MÃO CARIMBAR, NÃO AGRAFAR\nDIDOSETTS\n0217260015189279060484 289 000056774 14\nFTF vá",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_02_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_02_enhanced_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_02_enhanced_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_02_enhanced_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_02_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\gas_02_enhanced_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\gas_02_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_02_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_02_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_02_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.324,
+        "character_count": 1158,
+        "word_count": 191,
+        "date_count": 0,
+        "money_count": 2,
+        "vat_number_count": 1,
+        "invoice_keyword_count": 5,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.013,
+        "warnings": [
+          "No date patterns detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "pagamento",
+            "valor",
+            "cliente",
+            "eletricidade"
+          ],
+          "provider_keywords": [
+            "galp"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.089,
+          "symbol_ratio": 0.004
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\gas_02_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_02_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_02_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_02_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.47,
+        "character_count": 1955,
+        "word_count": 331,
+        "date_count": 0,
+        "money_count": 2,
+        "vat_number_count": 2,
+        "invoice_keyword_count": 10,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.015,
+        "warnings": [
+          "No date patterns detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "recibo",
+            "documento",
+            "pagamento",
+            "valor",
+            "iva",
+            "contribuinte",
+            "cliente",
+            "eletricidade",
+            "gas"
+          ],
+          "provider_keywords": [
+            "galp"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.124,
+          "symbol_ratio": 0.005
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected."
+      ]
+    },
+    "quality_score": 0.47,
+    "requires_ocr": true,
+    "requires_manual_review": true,
+    "warnings": [
+      "No dates found in selected text.",
+      "Selected OCR quality score is below manual-review threshold."
+    ],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\gas_03.webp",
+    "file_type": "webp",
+    "extraction_method": "baseline_ocr",
+    "selected_text": "Contém \nAssinatura \nDigital\nWILSON \nMOISÉS QUICANDA\nRUA DOS SACRIFÍCIOS LOTE 60, N 8,3581 EURO FAST BOK\nTE\n2680-129 Leoa\nFatura Fr 00171 #501605+\n46082 2023\nPeriods de Faturação: 46 OU \n2023. \nte Dez 2023\nSAS \n0,00€ E \n5,30€\nSóstatr \nsomóçeco \nTam cimpoms\nO valor desta fatura é\n40,98 €\n«pode pagar até\nDados 00 seu contrato \nmensagens Gres\nNome do titular \nE \nO mais importante \né ter\nPersp \n600 na ap Amite\nontinente Eletricidade & Gás \nSeu Mu corso \noco\nNatural FE-DO) Or \neens\nwe \n‘on \neto\nJiiazaoo E nae \ntelemóvel, onde \ne quando\n3071-508 comara\n7812\nN.o de contribuinte\n156494868,\nDÉBITO DIRETO ATIVADO\n§0.DOCREDOR: \npreszzz10s798\nNo AUTORIZAÇÃO: \n61049027983\nDÉBITO ATE: \n20 NOV 2023\nVALOR A DEBITAR: \n40,98 \n€\nSam: \nPT5000350657000\"866000\"2",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_03_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_03_baseline_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_03_baseline_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_03_baseline_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_03_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\gas_03_baseline_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\gas_03_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_03_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_03_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_03_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.194,
+        "character_count": 749,
+        "word_count": 127,
+        "date_count": 0,
+        "money_count": 0,
+        "vat_number_count": 1,
+        "invoice_keyword_count": 6,
+        "provider_keyword_count": 0,
+        "consumption_unit_count": 0,
+        "noise_score": 0.032,
+        "warnings": [
+          "No date patterns detected.",
+          "No money values detected.",
+          "No provider keywords detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "valor",
+            "iva",
+            "contribuinte",
+            "eletricidade",
+            "gas"
+          ],
+          "provider_keywords": [],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.134,
+          "symbol_ratio": 0.011
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected.",
+        "No money values detected.",
+        "No provider keywords detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\gas_03_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_03_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_03_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_03_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.194,
+        "character_count": 749,
+        "word_count": 127,
+        "date_count": 0,
+        "money_count": 0,
+        "vat_number_count": 1,
+        "invoice_keyword_count": 6,
+        "provider_keyword_count": 0,
+        "consumption_unit_count": 0,
+        "noise_score": 0.032,
+        "warnings": [
+          "No date patterns detected.",
+          "No money values detected.",
+          "No provider keywords detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "valor",
+            "iva",
+            "contribuinte",
+            "eletricidade",
+            "gas"
+          ],
+          "provider_keywords": [],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.134,
+          "symbol_ratio": 0.011
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected.",
+        "No money values detected.",
+        "No provider keywords detected."
+      ]
+    },
+    "quality_score": 0.194,
+    "requires_ocr": true,
+    "requires_manual_review": true,
+    "warnings": [
+      "No dates found in selected text.",
+      "No money values found in selected text.",
+      "Selected OCR quality score is below manual-review threshold."
+    ],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\gas_04.png",
+    "file_type": "png",
+    "extraction_method": "enhanced_ocr",
+    "selected_text": "energio cria energia\nSITE tasa.galp.pt\nLEITURAS 800508 DBO \n(24hdia - Chamada grátish\nIndique a referência O00000000% de 1D ABR = 14 ABR\nAMARIAS ELETRICIDADE \n800506506 \n(24hdia- Chamada grátis)\nLINHA GERAL BOB 503 030\n(2 a Gab, das Sh ks 20h \n= Custo \nde charmada local)\nNOM \nE SORO ODE\nCONCEDE \nDA\nMORADA XXXXXXXXXOXXKX\nLOCALIDADE 200000000XXX2 \nXXX\nCÓDIGO POSTAL XXXX XXX\nFatura; FTOOO1W/10 XXXXX\nData: 16 MAR 2018 \nPeriodo de Faturação: 14 FEV 2018 a 14 MAR 2018\nO valor desta fatura é\n0,00 € \n0,00 € \n| 3,43€ \n| \n10,22 € \n36,77 € \né\nAY \nff \ne pode pagar até\nNa! \n06 ABR 2018 \nE\nEletricidade \nGás Natural \nServiços \nTaxas e Impostos \nIVA \nda\nde Energia \nà\na\nDADOS DO SEU CONTRATO \nMENSAGENS ÚTEIS \n' \nE\nO melhor \n:\nNome \ndo titular \no \ndos portugueses \n:\nXXXXXXXMXXKXKXRXAMXKAXKXAX \nE\né a sua luz.\n4, Galp oferece \n1 mês de eletricidade\na todas as familias portuguesas que dão\nà luz no dia \n1de cada mês.\nDesignação da oferta:\nGalp Eletricidade\na CRC \ndele\nLocal de fornecimento\nXXXXXKXKXXKXKXKKXKKK \nSaiba mais sobre o eletricidade preferida\n; \ndos portugueses em coso.galp.pt\n09 \nLise\nE 1600.21\nN.o de contrato\nTOKXKXX\n4, \nTarte\nNo de contribuinte\n2RRXXARKX\nds \nFone\nAL Phu \nTerie\nCONSERVE ESTE DOCUMENTO - \nválido come recibo depois de autenticado pelos CTT ou talão emitido pelos agentes Payshop \n1 de 3\nCLIENTE No XXX - GALP POWER, 5A \nPAGAVEL EM QUALQUER LOJA CTT, AGENTE PAYSHOP E POSTO DE CORREIOS\nPagamento desta fatura:\n4 ENTIDADE: \n2XXXX\nMB \nREFERÊNCIA: \nOXKXXKKX\nde \nMONTANTE: \n56,77 €\nTALÃO \nDE \nCONTROLO\nData limite \nde pagamento: \n06 ABR 2018\nWILLD \nVENDA \n30 \nDTL\nGuarde o talão de pagamento emitido pelo MB porque serve de comprovativo.\nO não pagamento do documento 14 data de vencimento, implica \nange de juros & tas legal em vigor.\nSAIBA MAIS EM \nao MN\nczas \ncasa.galp.pt \nHE payshop\n4 if \nE\n14 \nRESERVADO A MARCAÇÃO ÓTICA, MÃO DOBRAR, MÃO ESCREVER, MÃO CARIMBAR, NÃO AGRAFAR\nDIDOSETTS\n0217260015189279060484 289 000056774 14\nFTF vá",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_04_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_04_enhanced_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_04_enhanced_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_04_enhanced_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_04_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\gas_04_enhanced_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\gas_04_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_04_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_04_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_04_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.324,
+        "character_count": 1158,
+        "word_count": 191,
+        "date_count": 0,
+        "money_count": 2,
+        "vat_number_count": 1,
+        "invoice_keyword_count": 5,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.013,
+        "warnings": [
+          "No date patterns detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "pagamento",
+            "valor",
+            "cliente",
+            "eletricidade"
+          ],
+          "provider_keywords": [
+            "galp"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.089,
+          "symbol_ratio": 0.004
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\gas_04_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_04_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_04_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_04_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.47,
+        "character_count": 1955,
+        "word_count": 331,
+        "date_count": 0,
+        "money_count": 2,
+        "vat_number_count": 2,
+        "invoice_keyword_count": 10,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.015,
+        "warnings": [
+          "No date patterns detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "recibo",
+            "documento",
+            "pagamento",
+            "valor",
+            "iva",
+            "contribuinte",
+            "cliente",
+            "eletricidade",
+            "gas"
+          ],
+          "provider_keywords": [
+            "galp"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.124,
+          "symbol_ratio": 0.005
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected."
+      ]
+    },
+    "quality_score": 0.47,
+    "requires_ocr": true,
+    "requires_manual_review": true,
+    "warnings": [
+      "No dates found in selected text.",
+      "Selected OCR quality score is below manual-review threshold."
+    ],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\gas_05.jpg",
+    "file_type": "jpg",
+    "extraction_method": "enhanced_ocr",
+    "selected_text": "Fatura: FTÓODOTAO KERO\n© CONSUMO DE ELETRICIDADE\nQuamidado \n= © \nPrego \n- \nWaker \nDesconto \n= Total \ngerm WA \nWA\n14. FEV a 14 FEW\nFora do Vazio \nOkWh \n© OED kwh \nNICE \nQE \n2%\n15 FEV a 14 MAR\nEstimado a 14 MAR\nFora de Vazio \nTBkWh \nO UEDEEMAM \n3634 € \nMME \n73%\nPotência 4GRVA \n2 dias \nD2851 dia \n120€ \name \n25%\nCONSUMO DE ELETRICIDADE \n43,12 €\nQuantidade \nx \nPrage: \n- \nTestado A, \nwa\n1 MAR\ncA \n1 \nLas E \n285 € \n2ES € \nEM\n15 FEV \na 14 MAR\nISPE \n225 kWh \n0,004 €/kWh \n0,23€ \n02 € \n23%\nTaxa DGEG \n1 \nO35 € \nO35 € \n0,35 € \n23%\nf TAXAS E IMPOSTOS SOBRE \nA ELETRICIDADE \n3,43 € |\nO SEU CONSUMO MEDIO DE ELETRICIDADE É DE 252 kWh / MES\n2 \n241 \n280 \nZM \n26\n2017 \n2018\nNey \nDez \njan \nFew \nMar\n— Mis em que corsumiu mais electicdade = Mis \nem que consumiu menos electricidade\nCOMO CALCULAMOS O SEU CONSUMO?\nContador: 1XKXKKX\nEstimado \n----------- \na =. \n~~ Estimado\n14 FEV \n14 MAR\nLeitura Estimada a 14 MAR 2018\nas \n230 3 4 wm\n| \nContador n.o 1 OOK\nA eletricidade faturada foi produzida a partir das\nsepuintes fontes de energia: 24,1% Hídrica; 13,4%\nEólica; 3,9% Cogeração renovável; 2,2% Outras\nrenováveis; 8,4% Copgeração fóssil 12,1% Gas\nnatural; 28,6% Carvão; 6,7% Nuclear, 0,5%\nResíduos Sólidos Urbanos. Para mais informações,\nvã a anossaenergia.galp.pt ou www.erse. \npt,\nfy)\nÀ \nf\nQUE IMPOSTOS ESTOU A PAGAR?\nOISPE é o Imposto Sobre os Produtos\nPetroliferos e Energéticos, cobrado pelo Estado\naos consumidores de eletricidade.\nA CAV éa Contribuição para o Audiovisual. É\num imposto cobrado pelo Estado para financiar\no serviço público de rádio e de televisão. O valor\nmensal da CAV é de 2,85 € + IVA, mas baixa\npara \n1€ + IVA para Clientes economicamente\nvulneráveis. Estão isentos de pagamento 05\nClientes com consumo anual de eletricidade\ninferior a 400 kWh,\nA taxa DGEG é uma taxa de exploração com um\nvalor fixo definido e cobrado pela Direção Geral\nde Energia e Geologia.\nINFORMAÇÕES DO SEU CONTRATO\nTarifa Contratada Eletricidade: 4,54 Simples\nCiclo Horário: Sem Ciclo\nCPE: PTOOO XMMXXMXMAKAN\nA produção da eletricidade que consumiu\nentre 14 FEV e 14 MAR emitiu 80,37 kg\nde CO,\nEO) \n2de3",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_05_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_05_enhanced_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_05_enhanced_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_05_enhanced_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_05_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\gas_05_enhanced_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\gas_05_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_05_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_05_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_05_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.429,
+        "character_count": 1805,
+        "word_count": 317,
+        "date_count": 0,
+        "money_count": 0,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 8,
+        "provider_keyword_count": 2,
+        "consumption_unit_count": 2,
+        "noise_score": 0.055,
+        "warnings": [
+          "No date patterns detected.",
+          "No money values detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "pagamento",
+            "valor",
+            "iva",
+            "cliente",
+            "consumo",
+            "eletricidade",
+            "gas"
+          ],
+          "provider_keywords": [
+            "nos",
+            "galp"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.177,
+          "symbol_ratio": 0.018
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected.",
+        "No money values detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\gas_05_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_05_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_05_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\gas_05_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.482,
+        "character_count": 2088,
+        "word_count": 370,
+        "date_count": 0,
+        "money_count": 1,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 10,
+        "provider_keyword_count": 2,
+        "consumption_unit_count": 5,
+        "noise_score": 0.052,
+        "warnings": [
+          "No date patterns detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "pagamento",
+            "total",
+            "valor",
+            "iva",
+            "cliente",
+            "consumo",
+            "eletricidade",
+            "electricidade",
+            "gas"
+          ],
+          "provider_keywords": [
+            "nos",
+            "galp"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.192,
+          "symbol_ratio": 0.017
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected."
+      ]
+    },
+    "quality_score": 0.482,
+    "requires_ocr": true,
+    "requires_manual_review": true,
+    "warnings": [
+      "No dates found in selected text.",
+      "Selected OCR quality score is below manual-review threshold."
+    ],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\luz_01.webp",
+    "file_type": "webp",
+    "extraction_method": "baseline_ocr",
+    "selected_text": "Mepis \nMae \nsantas \ncpa: \neua \nses\n¢801116007109425\nMlb ee: bote\n10 Rc \nD\nDOR ARtuR SOUSA.\n2725-228 MEM MARTINS\nO que marca \no meu contador\no- \nve BED \n=\nCL \nSom\nne emensenciçõas\nStaleus \nemo ade \na\nos \ndas aa esco \n1o\nBos \nada ga\nSea \nfora destas duas, pure do consumo será estrado.\nOs meus dados\nMome do titular \nct casar ca\nManian santo \nPragas \nGoo 074 axe ss0\nMorada de fornecimento \npotência\nRURARTUR DESOUSA IGRCO \naaskatsmpls)\nMe qeu\nme\nanger\ncódigo \nde\nisogbasgsema\nArea de clientes e contactos",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_01_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_01_baseline_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_01_baseline_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_01_baseline_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_01_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\luz_01_baseline_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\luz_01_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_01_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_01_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_01_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.079,
+        "character_count": 503,
+        "word_count": 89,
+        "date_count": 0,
+        "money_count": 0,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 3,
+        "provider_keyword_count": 0,
+        "consumption_unit_count": 0,
+        "noise_score": 0.012,
+        "warnings": [
+          "No date patterns detected.",
+          "No money values detected.",
+          "No provider keywords detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "cliente",
+            "consumo",
+            "gas"
+          ],
+          "provider_keywords": [],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.067,
+          "symbol_ratio": 0.004
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected.",
+        "No money values detected.",
+        "No provider keywords detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\luz_01_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_01_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_01_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_01_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.079,
+        "character_count": 503,
+        "word_count": 89,
+        "date_count": 0,
+        "money_count": 0,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 3,
+        "provider_keyword_count": 0,
+        "consumption_unit_count": 0,
+        "noise_score": 0.012,
+        "warnings": [
+          "No date patterns detected.",
+          "No money values detected.",
+          "No provider keywords detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "cliente",
+            "consumo",
+            "gas"
+          ],
+          "provider_keywords": [],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.067,
+          "symbol_ratio": 0.004
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected.",
+        "No money values detected.",
+        "No provider keywords detected."
+      ]
+    },
+    "quality_score": 0.079,
+    "requires_ocr": true,
+    "requires_manual_review": true,
+    "warnings": [
+      "No dates found in selected text.",
+      "No money values found in selected text.",
+      "Selected OCR quality score is below manual-review threshold."
+    ],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\luz_02.webp",
+    "file_type": "webp",
+    "extraction_method": "baseline_ocr",
+    "selected_text": "",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_02_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_02_baseline_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_02_baseline_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_02_baseline_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_02_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\luz_02_baseline_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\luz_02_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_02_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_02_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_02_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.0,
+        "character_count": 0,
+        "word_count": 0,
+        "date_count": 0,
+        "money_count": 0,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 0,
+        "provider_keyword_count": 0,
+        "consumption_unit_count": 0,
+        "noise_score": 0.0,
+        "warnings": [
+          "Very low character count.",
+          "No date patterns detected.",
+          "No money values detected.",
+          "No invoice keywords detected.",
+          "No provider keywords detected."
+        ],
+        "signals": {
+          "invoice_keywords": [],
+          "provider_keywords": [],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.0,
+          "symbol_ratio": 0.0
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "Very low character count.",
+        "No date patterns detected.",
+        "No money values detected.",
+        "No invoice keywords detected.",
+        "No provider keywords detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\luz_02_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_02_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_02_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_02_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.0,
+        "character_count": 0,
+        "word_count": 0,
+        "date_count": 0,
+        "money_count": 0,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 0,
+        "provider_keyword_count": 0,
+        "consumption_unit_count": 0,
+        "noise_score": 0.0,
+        "warnings": [
+          "Very low character count.",
+          "No date patterns detected.",
+          "No money values detected.",
+          "No invoice keywords detected.",
+          "No provider keywords detected."
+        ],
+        "signals": {
+          "invoice_keywords": [],
+          "provider_keywords": [],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.0,
+          "symbol_ratio": 0.0
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "Very low character count.",
+        "No date patterns detected.",
+        "No money values detected.",
+        "No invoice keywords detected.",
+        "No provider keywords detected."
+      ]
+    },
+    "quality_score": 0.0,
+    "requires_ocr": true,
+    "requires_manual_review": true,
+    "warnings": [
+      "No dates found in selected text.",
+      "No invoice keywords found in selected text.",
+      "No money values found in selected text.",
+      "No usable text was extracted.",
+      "Selected OCR quality score is below manual-review threshold.",
+      "Selected text is too short."
+    ],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\luz_03.webp",
+    "file_type": "webp",
+    "extraction_method": "baseline_ocr",
+    "selected_text": "@edp\nPei inh de o \na\nALE \n1653€ \n19,02€\n‘As minhas mensagens.\nO que marca o meu contador\ntear\nee samt mc\nOs meus dados\nMORA \nAGA ço)\nct deco \ntutor\n006200430\n“aot\nrae\nQuanto tenho.\n‘apa?\nSe a EDP escolhe a Terra,\n‘euescolhoa \nEDP.\nedp\nÁrea de \nclientes \ne contactos.\nad cae",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_03_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_03_baseline_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_03_baseline_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_03_baseline_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_03_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\luz_03_baseline_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\luz_03_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_03_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_03_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_03_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.157,
+        "character_count": 273,
+        "word_count": 54,
+        "date_count": 0,
+        "money_count": 1,
+        "vat_number_count": 1,
+        "invoice_keyword_count": 1,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.066,
+        "warnings": [
+          "No date patterns detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "cliente"
+          ],
+          "provider_keywords": [
+            "edp"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.13,
+          "symbol_ratio": 0.022
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\luz_03_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_03_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_03_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_03_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.157,
+        "character_count": 273,
+        "word_count": 54,
+        "date_count": 0,
+        "money_count": 1,
+        "vat_number_count": 1,
+        "invoice_keyword_count": 1,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.066,
+        "warnings": [
+          "No date patterns detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "cliente"
+          ],
+          "provider_keywords": [
+            "edp"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.13,
+          "symbol_ratio": 0.022
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected."
+      ]
+    },
+    "quality_score": 0.157,
+    "requires_ocr": true,
+    "requires_manual_review": true,
+    "warnings": [
+      "No dates found in selected text.",
+      "Selected OCR quality score is below manual-review threshold."
+    ],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\luz_04.webp",
+    "file_type": "webp",
+    "extraction_method": "baseline_ocr",
+    "selected_text": "mae\nde \n1\noncom\noe \nail = = E\n\"tdo \nom \nDem \ncae \name \nMO \nme \nam\nMande \nrt oa \nram \nUE \nom \nmew\n!É \nO \nuso \nom\nH \n* conmumoswn \n(iso) \no \nComimomt \n(na) \nPovos) \nres, 7400)\nJR \n_coowteo sere)\ni,\ni \n=e \nhee\nEli \nom mi \nmm\nhh \na\nth mBstanememo \nue \nam\npi \nO a \nme",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_04_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_04_baseline_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_04_baseline_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_04_baseline_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_04_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\luz_04_baseline_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\luz_04_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_04_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_04_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_04_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.0,
+        "character_count": 262,
+        "word_count": 56,
+        "date_count": 0,
+        "money_count": 0,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 0,
+        "provider_keyword_count": 0,
+        "consumption_unit_count": 0,
+        "noise_score": 0.08,
+        "warnings": [
+          "No date patterns detected.",
+          "No money values detected.",
+          "No invoice keywords detected.",
+          "No provider keywords detected."
+        ],
+        "signals": {
+          "invoice_keywords": [],
+          "provider_keywords": [],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.214,
+          "symbol_ratio": 0.027
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected.",
+        "No money values detected.",
+        "No invoice keywords detected.",
+        "No provider keywords detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\luz_04_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_04_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_04_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_04_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.0,
+        "character_count": 262,
+        "word_count": 56,
+        "date_count": 0,
+        "money_count": 0,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 0,
+        "provider_keyword_count": 0,
+        "consumption_unit_count": 0,
+        "noise_score": 0.08,
+        "warnings": [
+          "No date patterns detected.",
+          "No money values detected.",
+          "No invoice keywords detected.",
+          "No provider keywords detected."
+        ],
+        "signals": {
+          "invoice_keywords": [],
+          "provider_keywords": [],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.214,
+          "symbol_ratio": 0.027
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected.",
+        "No money values detected.",
+        "No invoice keywords detected.",
+        "No provider keywords detected."
+      ]
+    },
+    "quality_score": 0.0,
+    "requires_ocr": true,
+    "requires_manual_review": true,
+    "warnings": [
+      "No dates found in selected text.",
+      "No invoice keywords found in selected text.",
+      "No money values found in selected text.",
+      "Selected OCR quality score is below manual-review threshold."
+    ],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\luz_05.webp",
+    "file_type": "webp",
+    "extraction_method": "baseline_ocr",
+    "selected_text": "pm\nE \naan TE \n1 \n— \nim\nOm \nsea\n= \ner \net \n(ee \n— \noe\ni cl ee \nO ws \naxe\nué \na a \nEa i \npe\nneste dos \na \nsm \nper\nPE aii,\nPN \nO \nsm\na \ntt,\npra\na e \nma a \ncosa cama\ne \ninda \nma\nEmissões co,\nOrirriciaaão \n— @ és naturat\nO meu consumo gerou: \nOmeu consumo gerou:\n2987 400,\nDe onde vem aminha eletricidade?",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_05_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_05_baseline_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_05_baseline_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_05_baseline_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_05_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\luz_05_baseline_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\luz_05_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_05_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_05_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_05_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.038,
+        "character_count": 300,
+        "word_count": 65,
+        "date_count": 0,
+        "money_count": 0,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 2,
+        "provider_keyword_count": 0,
+        "consumption_unit_count": 0,
+        "noise_score": 0.071,
+        "warnings": [
+          "No date patterns detected.",
+          "No money values detected.",
+          "No provider keywords detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "consumo",
+            "eletricidade"
+          ],
+          "provider_keywords": [],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.231,
+          "symbol_ratio": 0.02
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected.",
+        "No money values detected.",
+        "No provider keywords detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\luz_05_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_05_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_05_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\luz_05_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.038,
+        "character_count": 300,
+        "word_count": 65,
+        "date_count": 0,
+        "money_count": 0,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 2,
+        "provider_keyword_count": 0,
+        "consumption_unit_count": 0,
+        "noise_score": 0.071,
+        "warnings": [
+          "No date patterns detected.",
+          "No money values detected.",
+          "No provider keywords detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "consumo",
+            "eletricidade"
+          ],
+          "provider_keywords": [],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.231,
+          "symbol_ratio": 0.02
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected.",
+        "No money values detected.",
+        "No provider keywords detected."
+      ]
+    },
+    "quality_score": 0.038,
+    "requires_ocr": true,
+    "requires_manual_review": true,
+    "warnings": [
+      "No dates found in selected text.",
+      "No money values found in selected text.",
+      "Selected OCR quality score is below manual-review threshold."
+    ],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_01.webp",
+    "file_type": "webp",
+    "extraction_method": "baseline_ocr",
+    "selected_text": "meg \nopen canma \ntomar\nO vodafone\nFatura nov 2020\nNode Conta\n315260303\ne\nFriovorses2<0 \n170817792\napr \nVC ra a\n[ea nações dm\nTem \n244 \npontos \nClube Viva.\nHELIO PIRES FARIAS\nAV DO OCEANO. \nNo55. 10\nCAPARICA\n2825-484 \nCOSTA DE CAPARICA\nAtive o débito direto \nValor deste més\neps \nness are \nOsece emite 2042-2020 Peto defanzaçã 16 nova dez\nEe \nwn potatoes \nreste\nesti 10297\na \nMB. \naeterioca 368999499 \n€65,84\npode definir um valor máximo de ce \nMidias SODA\nFo, Sa Sa \nOS i \nSore a \nData limite \nde pagamento: \n12 jan 2021\nServicos \nEncargos\nYaores com incuido \nIVA \nMensstidade Suplementares \naddons \nDescontos) \nTota\ni \né\nRedinit \n2x \ncaso \n: \nES \nE\nTotaldafaturacomiva \n—€65,84\nBoas Festas\nne o Comcast \nState fm \nmos da\nResumo dora.\nValeria — VIA\nES",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_01_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_01_baseline_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_01_baseline_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_01_baseline_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_01_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_01_baseline_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_01_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_01_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_01_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_01_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.353,
+        "character_count": 751,
+        "word_count": 129,
+        "date_count": 0,
+        "money_count": 2,
+        "vat_number_count": 3,
+        "invoice_keyword_count": 5,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.016,
+        "warnings": [
+          "No date patterns detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "pagamento",
+            "total",
+            "valor",
+            "iva"
+          ],
+          "provider_keywords": [
+            "vodafone"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.093,
+          "symbol_ratio": 0.005
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_01_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_01_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_01_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_01_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.353,
+        "character_count": 751,
+        "word_count": 129,
+        "date_count": 0,
+        "money_count": 2,
+        "vat_number_count": 3,
+        "invoice_keyword_count": 5,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.016,
+        "warnings": [
+          "No date patterns detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "pagamento",
+            "total",
+            "valor",
+            "iva"
+          ],
+          "provider_keywords": [
+            "vodafone"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.093,
+          "symbol_ratio": 0.005
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected."
+      ]
+    },
+    "quality_score": 0.353,
+    "requires_ocr": true,
+    "requires_manual_review": true,
+    "warnings": [
+      "No dates found in selected text.",
+      "Selected OCR quality score is below manual-review threshold."
+    ],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_02.png",
+    "file_type": "png",
+    "extraction_method": "baseline_ocr",
+    "selected_text": "ama \ncernficadon? \n2242/47\nFatt \nProcessado \npos \npr\n6) vodafone\nTem 3393 pontos Clube Viva. Oferta disponvelemvodafone \npt\nOriginal \nFatura out 2021\nNo Documento \nNoContribuinte \nN° deConta\nFT 101/027950647 \n198032900 \n311115902\nApaia aC lentes -Wiatevodafo ne.pt/ayds ouligue \n16912 24h pordia tanfaastesiel)\nMy Vodafone Faça a gestdodes secos consultee pague faturas em my vodafone sk\nMB pontas vão perder a validade a SOde novembro de 2021.\nSr. CELIA MARIA DUARTE DIAS MENDES\nCARREGA SN\nCARREGA\n3230-205 PENELA\nValor deste mês\nData de emissão: 05-11-2021\nMontante do débito direto\nBanco: CAIXA GERAL DE DEPÓSITOS\nIBAN: \nPTS000550609000101Bwa:0b6\nWP autonzação: \n056 \n1855360\nPertodode faturação: 1 out a31 out\nDébito a partir de 30 nov 2021\n€125,25\nServiços \nEncargos\nValores com IVA incluído \nIVA \nMensalidade \nSuplementares \nComunicações \nadicionai \nDescontas(-) \nTotal\nRed Infinity SMbps \n: \nE \n- \nE\nRed infin \n23% \n£10.09 \neis \n€35,25\nRed Infinity SMbps \n1 \nz \n£56.84 \nE \n- \n4,74\nere \n23% \n£17.00 \n£36. \n€54,\nRed Infinity SMbps \nu. \n. \nE \nE\npains \n23% \n£17.80 \n£246 \n€ 20,36\nRed \n23% \n£14.90 \nE \n: \n= \n: \n€14,90\n917426201\nTotal da fatura com IVA \n€ 125,25\nAlualizámos o suplemento de privacidade do nosso contrato e Atenção à data Limite de pagamento \nResumo do IVA\nclarilicimos \nas \npermissões \npara \nofertas \ncomerciais \ne Ultapassada \nà data lumte de pagamento. o seu senço \nTaxalVA \nValor Base \nValoriVA\nrecomendações personalizadas Não alterimas a forma como pode ser suspenso e caso \na situação persata puderáser \n25% \n101\ndesatwade.\ntratamos os seus dados, mas pretendemos tornar ainda mais\ntransparente \nesta \ninformação \nConsulte \no \nSuplemento \nde\nPrivacidade em htte//vfptot/suprivacidade e o \nPortal de\nPrivacidade \n— \nGestão \nde \nPermissões \nem\nhttp:/ /vfpt \npt? portal \nprivacidade\nVodafone Port ug, \nCo munmações Pessoas \nS.A, Sede: Avenida U.Jodoll $f E205\nA remação desta suspensão ou à maturação do seven\nted umeustoassaciado.\nConsulte as Condes de Oferta de Semçus em\nvodafone \ngt \nou \nnuma \ndas \nnossas \nlojas. \nEste\ndocumento/fatura é válido como tecido após boa\ncobfançados valores.\nParquedas Nações, 1990 O17 Lstoa wwe nodafone \nst Ca ptal Socal £ 91.088: 255/00 MPC PTSO 254 4 190/Node Matiícula na (RC \nde La tou 502544140\nVw",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_02_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_02_baseline_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_02_baseline_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_02_baseline_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_02_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_02_baseline_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_02_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_02_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_02_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_02_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.639,
+        "character_count": 2258,
+        "word_count": 359,
+        "date_count": 1,
+        "money_count": 5,
+        "vat_number_count": 5,
+        "invoice_keyword_count": 7,
+        "provider_keyword_count": 2,
+        "consumption_unit_count": 0,
+        "noise_score": 0.025,
+        "warnings": [],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "documento",
+            "pagamento",
+            "total",
+            "valor",
+            "iva",
+            "contribuinte"
+          ],
+          "provider_keywords": [
+            "vodafone",
+            "nos"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.103,
+          "symbol_ratio": 0.008
+        }
+      },
+      "errors": [],
+      "warnings": []
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_02_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_02_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_02_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_02_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.602,
+        "character_count": 2289,
+        "word_count": 375,
+        "date_count": 1,
+        "money_count": 3,
+        "vat_number_count": 5,
+        "invoice_keyword_count": 7,
+        "provider_keyword_count": 2,
+        "consumption_unit_count": 0,
+        "noise_score": 0.029,
+        "warnings": [],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "documento",
+            "pagamento",
+            "total",
+            "valor",
+            "iva",
+            "contribuinte"
+          ],
+          "provider_keywords": [
+            "vodafone",
+            "nos"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.112,
+          "symbol_ratio": 0.01
+        }
+      },
+      "errors": [],
+      "warnings": []
+    },
+    "quality_score": 0.639,
+    "requires_ocr": true,
+    "requires_manual_review": false,
+    "warnings": [],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_03.png",
+    "file_type": "png",
+    "extraction_method": "baseline_ocr",
+    "selected_text": "ama \ncernficadon? \n2242/47\nFatt \nProcessado \npos \npr\n6) vodafone\nTem 3393 pontos Clube Viva. Oferta disponvelemvodafone \npt\nOriginal \nFatura out 2021\nNo Documento \nNoContribuinte \nN° deConta\nFT 101/027950647 \n198032900 \n311115902\nApaia aC lentes -Wiatevodafo ne.pt/ayds ouligue \n16912 24h pordia tanfaastesiel)\nMy Vodafone Faça a gestdodes secos consultee pague faturas em my vodafone sk\nMB pontas vão perder a validade a SOde novembro de 2021.\nSr. CELIA MARIA DUARTE DIAS MENDES\nCARREGA SN\nCARREGA\n3230-205 PENELA\nValor deste mês\nData de emissão: 05-11-2021\nMontante do débito direto\nBanco: CAIXA GERAL DE DEPÓSITOS\nIBAN: \nPTS000550609000101Bwa:0b6\nWP autonzação: \n056 \n1855360\nPertodode faturação: 1 out a31 out\nDébito a partir de 30 nov 2021\n€125,25\nServiços \nEncargos\nValores com IVA incluído \nIVA \nMensalidade \nSuplementares \nComunicações \nadicionai \nDescontas(-) \nTotal\nRed Infinity SMbps \n: \nE \n- \nE\nRed infin \n23% \n£10.09 \neis \n€35,25\nRed Infinity SMbps \n1 \nz \n£56.84 \nE \n- \n4,74\nere \n23% \n£17.00 \n£36. \n€54,\nRed Infinity SMbps \nu. \n. \nE \nE\npains \n23% \n£17.80 \n£246 \n€ 20,36\nRed \n23% \n£14.90 \nE \n: \n= \n: \n€14,90\n917426201\nTotal da fatura com IVA \n€ 125,25\nAlualizámos o suplemento de privacidade do nosso contrato e Atenção à data Limite de pagamento \nResumo do IVA\nclarilicimos \nas \npermissões \npara \nofertas \ncomerciais \ne Ultapassada \nà data lumte de pagamento. o seu senço \nTaxalVA \nValor Base \nValoriVA\nrecomendações personalizadas Não alterimas a forma como pode ser suspenso e caso \na situação persata puderáser \n25% \n101\ndesatwade.\ntratamos os seus dados, mas pretendemos tornar ainda mais\ntransparente \nesta \ninformação \nConsulte \no \nSuplemento \nde\nPrivacidade em htte//vfptot/suprivacidade e o \nPortal de\nPrivacidade \n— \nGestão \nde \nPermissões \nem\nhttp:/ /vfpt \npt? portal \nprivacidade\nVodafone Port ug, \nCo munmações Pessoas \nS.A, Sede: Avenida U.Jodoll $f E205\nA remação desta suspensão ou à maturação do seven\nted umeustoassaciado.\nConsulte as Condes de Oferta de Semçus em\nvodafone \ngt \nou \nnuma \ndas \nnossas \nlojas. \nEste\ndocumento/fatura é válido como tecido após boa\ncobfançados valores.\nParquedas Nações, 1990 O17 Lstoa wwe nodafone \nst Ca ptal Socal £ 91.088: 255/00 MPC PTSO 254 4 190/Node Matiícula na (RC \nde La tou 502544140\nVw",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_03_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_03_baseline_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_03_baseline_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_03_baseline_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_03_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_03_baseline_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_03_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_03_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_03_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_03_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.639,
+        "character_count": 2258,
+        "word_count": 359,
+        "date_count": 1,
+        "money_count": 5,
+        "vat_number_count": 5,
+        "invoice_keyword_count": 7,
+        "provider_keyword_count": 2,
+        "consumption_unit_count": 0,
+        "noise_score": 0.025,
+        "warnings": [],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "documento",
+            "pagamento",
+            "total",
+            "valor",
+            "iva",
+            "contribuinte"
+          ],
+          "provider_keywords": [
+            "vodafone",
+            "nos"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.103,
+          "symbol_ratio": 0.008
+        }
+      },
+      "errors": [],
+      "warnings": []
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_03_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_03_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_03_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_03_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.602,
+        "character_count": 2289,
+        "word_count": 375,
+        "date_count": 1,
+        "money_count": 3,
+        "vat_number_count": 5,
+        "invoice_keyword_count": 7,
+        "provider_keyword_count": 2,
+        "consumption_unit_count": 0,
+        "noise_score": 0.029,
+        "warnings": [],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "documento",
+            "pagamento",
+            "total",
+            "valor",
+            "iva",
+            "contribuinte"
+          ],
+          "provider_keywords": [
+            "vodafone",
+            "nos"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.112,
+          "symbol_ratio": 0.01
+        }
+      },
+      "errors": [],
+      "warnings": []
+    },
+    "quality_score": 0.639,
+    "requires_ocr": true,
+    "requires_manual_review": false,
+    "warnings": [],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_04.webp",
+    "file_type": "webp",
+    "extraction_method": "baseline_ocr",
+    "selected_text": "oO vodafone\n06.10.2018 23:59\nIrsaliye Tarihi / Ne\ntura Dénemt Ekim 2018( 07 E \n06 E)\nFatura Refera\nVODAFONE TELEKOMONIKASYON A.S.\n=\nE-arsiv Fatura\nBIR SONRAKI FATURA TARIHI: 06.11.2018 \nFATURASTUTAR \nied\nR \nna\nBIR SONRAKI SON ODEME TARIHI: 21.11.2018 \nSON ODEME TARIH \n= \na\nAbonolk Bavangg Tah \n@RO8A017 \nTaf Ads \nAKI Ropu a6\n(ri oi \n| \nDior dete \nSs\nA tim cree \nego md \nea \nE\nfk rar Ose \n3800 \nIndie op \n+1000 1\nAnnan \nsro \nAYUK ÚCRETLER TOPLAMI \n3.58 TL\nwort \nPad \nroe ari \n2\nVODAFONE \nherkecer donenien \nnnn\n(a) \niler hariç toplamidir.)\ncemEreiLenecerbcrercêr \nrm\nKo \nJo\nOr an \nVi 7s \na\nTie Kana Orton \nia\nARA TOPLAM \nsoam\nGoes rarura cheat \nTOPLAM FATURA TUTAR Bois\nEcras dis \nTrevor \nnum\nTan \num\nCASEIRAS one Oereniem \nEa\nPNR \nnem\nrant yn am \neo aa\nfrom oo \ntips \nSe \name ot\nana YOZON \nELL IKR",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_04_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_04_baseline_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_04_baseline_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_04_baseline_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_04_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_04_baseline_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_04_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_04_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_04_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_04_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.142,
+        "character_count": 798,
+        "word_count": 149,
+        "date_count": 0,
+        "money_count": 1,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 1,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.019,
+        "warnings": [
+          "No date patterns detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura"
+          ],
+          "provider_keywords": [
+            "vodafone"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.087,
+          "symbol_ratio": 0.006
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_04_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_04_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_04_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_04_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.142,
+        "character_count": 798,
+        "word_count": 149,
+        "date_count": 0,
+        "money_count": 1,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 1,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.019,
+        "warnings": [
+          "No date patterns detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura"
+          ],
+          "provider_keywords": [
+            "vodafone"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.087,
+          "symbol_ratio": 0.006
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected."
+      ]
+    },
+    "quality_score": 0.142,
+    "requires_ocr": true,
+    "requires_manual_review": true,
+    "warnings": [
+      "No dates found in selected text.",
+      "Selected OCR quality score is below manual-review threshold."
+    ],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_05.jpg",
+    "file_type": "jpg",
+    "extraction_method": "enhanced_ocr",
+    "selected_text": "(O vodafone | Red\nFATURA\nFatura ID: N502023036026128\nFatura Tarihi: 31.08.2023 23:59\nirsaliye Tarihi / No:\nFatura Dônemi: Agustos 2023( 01 Agu - 31 Agu )\nFatura Referansi: D30850E6A8163\nETTN: 96193729-ec 1f-4316-b973-ee6e151 14faa\nVODAFONE TELEKOMUNIKASYON A.S.\nBIR SONRAKiI FATURA TARIHi: 30.09.2023\nDigita\nVOD\nBIR SONRAKI SON ODEME TARIHi: 16.10.2023\nE-Arsiv Fatura\n2.\nafrórer\nMiigteri Hizmetieri: 542\nFaks: 0850 542 50 00\nVodafone Telekomiinikasyon A.§.\nVodafone Plaza\nBúyikdere Cad. Noc251\nMaslak 34398 Istanbul\nTicaret Sicil No: 564625 512207\nBiyok Mukellefier VD. 925 035 3261\nSn.\nNaime Didem Erdemli Kekevi\nHacikara Mah. Profesor Doktor Gazi Yagargil\nCaddesi No.57 Daire54 No.5? Daires4\n06730 Beypazan \nAnkara\nSON ODEME TARÍHI: 15/09/2023\nFATURA TUTARI: \n| \n563.00 TL\nSON ODEME TARIHI: \n15.09.2023\nÔDENMEMIS FATURA BILGILERi:\n(Odeme yaptysaniz bitten dikkate almayin.)\nZamaninda yaptiginiz ôdemeler için tegekkir ederiz.\nLiitien faturanin arkasindaki açiklamalar ve bankalar kismini okuyunuz.\nYalnz BESYUZALTMISUG /TL SIFIR /KR\nGSM NO: \n505 667 37 35 \nAbonelik Baslangiç Tarihi: \n04.07.2011\n(Vergiler dahildir.) \nDiger Ucretler \n257.77 TL\nRed Tarifem 20GB Paketi Tarife \n195.18 TL \nindirim iptali \n267 TT\nUcreti \nAylik Ucretler Toplami \n553.49 TL\nEk Kullanimlar \n\" \n100.54 TL \n(Vergiler Harig: \n425.76 TL)\nTaahhutlu Ek Paket Ucreti \nTH2 \n100.54\nVodafone'a iletilecek Ucretler \n425.76 TL\n(Aylik licretlerinizin vergiler hariç toplamudir.)\nDevlete lletilecek Ucretler \n137.16 TL\nKDV %20 \n85.16\nOzel lletisimn Vergisi %10 \n42.57\nTelsiz Kullanma ÚUcretleri \n943\nAra Toplam \n562.92 TL\nResmi Gazete'de yayimlanan karara istinaden 10 Temmuz 2023 tarihi tibanyla KDV oram\n220 olarak gincellenmistir. Fatura dôneminizin 10 Temmuz éncesi kullanimlan % 13 EDV\noraniyla Geretiendiirken, 10 Temmuz ve sonras: kullanenlarine giinee! KD orani olan %20\nde Gicretendirilmeye baslamuisbr.\nToplam Fatura Tutar Bilgisi\nAra Toplam \n562.92 TL\nOnceki Aydan Devreden Ucretler \n0.09 TL\nFATURA TUTARI \n563.00 TL\nTarife Digi Kullanimlarmizin Ucretlendirilmesi\nTarife Adi | Taahhiitsiiz \nTarifenin igerigi \nVodafone I¢i \nSabit Hat \nDiger Operatar \nSHS \nInternet \nUcretlendirme\nGiincel Tarife \nKonusma \nKonugma \nKonugma \nPeriyodu\nUcreti\nRed Tarifem| \n283.36 TL \nHer yone 3000 DK. \n1.50 TUIDK \n1.90 TUDK \n1.90 TUDK \n1.36 TUSMS| \n0.005691 \n[6 Saniye/ 100 Kb\n20GB Paketi \nVodafonelulara sinirsiz \nTUKE\nkonusma, her yone 250\nSMS, yurt ici 22GB\nTarifenize Ek Paket Içerigi ve Ucretleri\nAvantajli 15GB Paket. 141.17 TL\"(1 adet),\ntaanhieindz oimadi\n. guncaienen ucretier koniratinizin tts tarhinden sonra gecenl olacakhr. Detaylarwww.\nuyguianmeghr. Avantajl 1565 Paketl : Faturanca 01.06.2023401.09.2023 tarinien aralijenda 31 gin uygulanmigir. Tare Indiriminiz 67.83 TL’ dir. Taahhutlu ek paket kampany.\niitanyle Averrall 1555 Kampanyas! kampanyas! taahhdtindatn 7. ayinda bulunmaiasiniz. Kampanyaniz 01.02.2024 tarhinds sona erecektir. Taahnitindain son aynda olup bir sonra fatura dôneminde baglayacak\ntarfenian taahindisiz gâncel fyat 263.36 \nTL dzeninden Ocretiencirtireiniz.\noy durumda\nTarifeniz / Kam\n2 gen \nAe\npanyaniz / Paketiniz ile llgili Açikl\nvodafone \ncom\namalar (Tutarlara KDV, OIV dahildir)\nef \nquiceleneceki. \n27M \n22% \ntare yal \nato \nclara quince anecelir. Devam ede \nTe\nRed Tarfem 2068 Paket : Faturaniga 10.08.2023401.05 \n2023 tanned araliynda \n22 gon\nanya Indinminiz 40.63 Tudor. Fatura kesim tain\nBu fatura e-Arsiv izni kapsaminda elektronik ortamda iletilmistir.\n_\nBasim Yer ve Baski Sirket Mener!: Posthom Basim Posta \nve lietisim Hinmetier! AS. IKRell OS6 Mah ipkas Sanay Sitesi C Blok Sok. Nit 17 Basakeehin STANBUL VD V No \nETR",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_05_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_05_enhanced_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_05_enhanced_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_05_enhanced_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_05_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_05_enhanced_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_05_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_05_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_05_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_05_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.437,
+        "character_count": 2536,
+        "word_count": 377,
+        "date_count": 0,
+        "money_count": 9,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 1,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 4,
+        "noise_score": 0.043,
+        "warnings": [
+          "No date patterns detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura"
+          ],
+          "provider_keywords": [
+            "vodafone"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.027,
+          "symbol_ratio": 0.014
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_05_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_05_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_05_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_05_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.546,
+        "character_count": 3625,
+        "word_count": 547,
+        "date_count": 1,
+        "money_count": 16,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 1,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 5,
+        "noise_score": 0.021,
+        "warnings": [],
+        "signals": {
+          "invoice_keywords": [
+            "fatura"
+          ],
+          "provider_keywords": [
+            "vodafone"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.04,
+          "symbol_ratio": 0.007
+        }
+      },
+      "errors": [],
+      "warnings": []
+    },
+    "quality_score": 0.546,
+    "requires_ocr": true,
+    "requires_manual_review": false,
+    "warnings": [],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_06.webp",
+    "file_type": "webp",
+    "extraction_method": "baseline_ocr",
+    "selected_text": "Detathe \nda fatura de now 2024\n\"314095599\naaa \nea OTT\nrr \nee\ncam \ncaso \nreams\ncure \ncars \nrose\ncam \ncaso \nancmvaas\ncas \nee]\ncume \ncaos \nrente \noenimmaepopmmsstoo!\neos \n‘vac cs ups na eee pro\nures\nTi one ror 07H \ncas \nFE EEE\nEE \nEE\nEar \nTam \nDE peepee\nCEEE aro \ncaos\nValor \nem atraso\nMontante a pagar \n€69,05\nA 2 e ea e e oe re + \nrience: \n10297\naaa \ngm \n:\no mentane em arse não et cuido no vale ese \nMB \ntetencia: \n467680183\nSnare coe tr ge pao pr tr ope oo \nSF \nuomme \nc6905\nSeis \nprior om eta toma.\nDetalhes \ndos serviços\nreneivs assim \nremessas\nwr \nasi \neas\nom poção \nna \nmaca \ncus\nTER \ne \nan\nTones oe \nan\nassis\nSeago soemems \n7 \nritos \nE \npeão \n—\n+ \nnesicoioomona \ncaso \nEmas\n+ \nvessoa \ner \n1 \noc conto\non\n© \nvearestcoecs \nos \nEIA\nJammcatesnio \n+ \ncomes \nexo\nporra\nclube viva \nAtive \no débito direto\ntenha descontos. e cferss em equçamentos.\npopes oo ma tra uma vez que o var é\nPas star sesh 20 My votes do tgue 16912\nEsporão",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_06_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_06_baseline_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_06_baseline_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_06_baseline_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_06_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_06_baseline_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_06_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_06_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_06_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_06_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.234,
+        "character_count": 929,
+        "word_count": 176,
+        "date_count": 0,
+        "money_count": 1,
+        "vat_number_count": 2,
+        "invoice_keyword_count": 3,
+        "provider_keyword_count": 0,
+        "consumption_unit_count": 0,
+        "noise_score": 0.032,
+        "warnings": [
+          "No date patterns detected.",
+          "No provider keywords detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "valor",
+            "iva"
+          ],
+          "provider_keywords": [],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.085,
+          "symbol_ratio": 0.011
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected.",
+        "No provider keywords detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_06_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_06_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_06_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_06_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.234,
+        "character_count": 929,
+        "word_count": 176,
+        "date_count": 0,
+        "money_count": 1,
+        "vat_number_count": 2,
+        "invoice_keyword_count": 3,
+        "provider_keyword_count": 0,
+        "consumption_unit_count": 0,
+        "noise_score": 0.032,
+        "warnings": [
+          "No date patterns detected.",
+          "No provider keywords detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "valor",
+            "iva"
+          ],
+          "provider_keywords": [],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.085,
+          "symbol_ratio": 0.011
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected.",
+        "No provider keywords detected."
+      ]
+    },
+    "quality_score": 0.234,
+    "requires_ocr": true,
+    "requires_manual_review": true,
+    "warnings": [
+      "No dates found in selected text.",
+      "Selected OCR quality score is below manual-review threshold."
+    ],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_07.webp",
+    "file_type": "webp",
+    "extraction_method": "baseline_ocr",
+    "selected_text": "ó\nvodafone\nRRERRRERERRE)",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_07_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_07_baseline_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_07_baseline_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_07_baseline_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_07_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_07_baseline_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_07_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_07_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_07_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_07_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.029,
+        "character_count": 24,
+        "word_count": 3,
+        "date_count": 0,
+        "money_count": 0,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 0,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.113,
+        "warnings": [
+          "Very low character count.",
+          "No date patterns detected.",
+          "No money values detected.",
+          "No invoice keywords detected."
+        ],
+        "signals": {
+          "invoice_keywords": [],
+          "provider_keywords": [
+            "vodafone"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.333,
+          "symbol_ratio": 0.0
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "Very low character count.",
+        "No date patterns detected.",
+        "No money values detected.",
+        "No invoice keywords detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_07_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_07_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_07_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_07_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.029,
+        "character_count": 24,
+        "word_count": 3,
+        "date_count": 0,
+        "money_count": 0,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 0,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.113,
+        "warnings": [
+          "Very low character count.",
+          "No date patterns detected.",
+          "No money values detected.",
+          "No invoice keywords detected."
+        ],
+        "signals": {
+          "invoice_keywords": [],
+          "provider_keywords": [
+            "vodafone"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.333,
+          "symbol_ratio": 0.0
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "Very low character count.",
+        "No date patterns detected.",
+        "No money values detected.",
+        "No invoice keywords detected."
+      ]
+    },
+    "quality_score": 0.029,
+    "requires_ocr": true,
+    "requires_manual_review": true,
+    "warnings": [
+      "No dates found in selected text.",
+      "No invoice keywords found in selected text.",
+      "No money values found in selected text.",
+      "Selected OCR quality score is below manual-review threshold.",
+      "Selected text is too short."
+    ],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_08.webp",
+    "file_type": "webp",
+    "extraction_method": "baseline_ocr",
+    "selected_text": "6) vodafone \nOriginal \nFatura set 2024\nNo Documento \nNoContribuinte \nNo de Conta\nLem __-J \n[=D\nApoio ao Cliente- visite vodafone pt/ajuda ou vodafonept/contactos\nty \ne \nos,\nTem 740 pontos Clube Viva. oferta disponível em vodafone pt\nqua»\nGEREEEDBRAGA\nValor deste més\nData de emissão: \n27-10-2024 \nPeríodo de faturação: 23 set a 22 out\nMontante do débito direto \n€36,50\nDébito a partir de 20 nov 2024\nServicos \nEncargos\nValores com IVA incluído \nIVA \nMensalidade \nSuplementares \nComunicações \nadicionais \nDescontos () \nTotal\nam \n23% \n€28,50 \n€800 \n- \n- \n- \n€3650\nTotal da fatura com IVA \n€ 36,50\nResumo do IVA\nTaxalVa \nValorBase \nValorIVA\n23% \n€29,67 \n£683\nAtenção à data limite de pagamento\nUltrapassada a data limite de pagamento, o seu serviço\nMelhor experiência \npode ser suspenso e, caso \na situação persista, poderá ser\nd \ntili \n= \ndesativado.\ne um izaçdo \nA remoção desta suspensão ou a reativação do serviço\nTV por Fibra \nterá um custo associado.\nConsulte as Condições de Oferta \nde Serviços em\nDECOPROTeste \nvodafonept \nou \nnuma \ndas \nnossas \nlojas. \nEste\ndocumento/fatura é válido como recibo após \nboa\ncobrança \ndos valores.\ness0ais, SA \nJoão 136,E205\ntal Social € \nRCdeli",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_08_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_08_baseline_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_08_baseline_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_08_baseline_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_08_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_08_baseline_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_08_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_08_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_08_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_08_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.505,
+        "character_count": 1182,
+        "word_count": 188,
+        "date_count": 1,
+        "money_count": 4,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 9,
+        "provider_keyword_count": 2,
+        "consumption_unit_count": 0,
+        "noise_score": 0.023,
+        "warnings": [],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "recibo",
+            "documento",
+            "pagamento",
+            "total",
+            "valor",
+            "iva",
+            "contribuinte",
+            "cliente"
+          ],
+          "provider_keywords": [
+            "vodafone",
+            "nos"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.08,
+          "symbol_ratio": 0.008
+        }
+      },
+      "errors": [],
+      "warnings": []
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_08_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_08_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_08_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_08_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.505,
+        "character_count": 1182,
+        "word_count": 188,
+        "date_count": 1,
+        "money_count": 4,
+        "vat_number_count": 0,
+        "invoice_keyword_count": 9,
+        "provider_keyword_count": 2,
+        "consumption_unit_count": 0,
+        "noise_score": 0.023,
+        "warnings": [],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "recibo",
+            "documento",
+            "pagamento",
+            "total",
+            "valor",
+            "iva",
+            "contribuinte",
+            "cliente"
+          ],
+          "provider_keywords": [
+            "vodafone",
+            "nos"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.08,
+          "symbol_ratio": 0.008
+        }
+      },
+      "errors": [],
+      "warnings": []
+    },
+    "quality_score": 0.505,
+    "requires_ocr": true,
+    "requires_manual_review": false,
+    "warnings": [],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_09.jpg",
+    "file_type": "jpg",
+    "extraction_method": "enhanced_ocr",
+    "selected_text": "6) vodafone \nOriginal \nFatura dez 2024\nNo Documento \nNE Contribuinte \nNo de Conta\nFT 101/0B5024506 \n312956711 \n3741554355\nApoio \nao Clienbe- visite vodafone \npt aud ou vodafone ploontactes\nMy Wedatone . [aca ageitio \ndes seus senvioos, consulte é pague fatusas enywodafone \npt\nTem 3079 pontos Clube Viva. oferta dsponivelemvodafone \npt\nà pontos vão perder a validade a 31 de janeiro de 2025. \nBRUNA OLIVEIRA FERREIRA MARTINS\nRUA DA FONTE 35\n2410-261 LEIRIA\nAtive o débito direto \nValor deste mês\nEvie penlas de tempo e procupaçõescom cs praosde pagamento \nData \nde emissão: 05-01-2025 \nPeriodo defaturacace 1 deza 31 dez\nea suafatua, umavez queo valar \né automaticamentedescantado na\nsus corta barcária \nE \nE \nEntidade: \n10297\nOutras vantagers: \nMB \nReferência: 475 663 677 \n£ 64,89\natração simples rápida e segura \n— \nMontante: \n£64.89\n- pode definir um valor maim de cobrança. \nk\nPara abvar aceda ao My Vodafone ow lique 10972 idepoid \nimi \n“ryt \ndi \nc\navidly ln aplicaect \nData limite de pagamento: \n24 jan 2025\nA refestncia \nWB não perde a validade, pode ati bin \nDi \ndata Brito de\nServiços \nEncargos\nValores com IVA incluído \nWa \nMensalidade \nSuplementares \nComunicações \nadicionais \nDescontos (4 \nTotal\nTvNetVer+Movel \nE \nE \n£3 \nEf \n+ \n2 \n£64.89\n215905750 Sizasatea \nsae \nele \ni \ni\nCartão móvel \n2g \nT \n= \n= \nE \nE \ne000\nCALA EELE\nTotal da fatura com IVA \n£ 64,89\nResumo \ndo IVA\nTaxa A \nWalorBase \nWalor vá\n25% \nE sa \né \n€12,13",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_09_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_09_enhanced_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_09_enhanced_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_09_enhanced_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_09_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_09_enhanced_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_09_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_09_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_09_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_09_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.218,
+        "character_count": 534,
+        "word_count": 84,
+        "date_count": 0,
+        "money_count": 0,
+        "vat_number_count": 1,
+        "invoice_keyword_count": 5,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.011,
+        "warnings": [
+          "No date patterns detected.",
+          "No money values detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "pagamento",
+            "total",
+            "valor",
+            "iva"
+          ],
+          "provider_keywords": [
+            "vodafone"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.095,
+          "symbol_ratio": 0.004
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected.",
+        "No money values detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_09_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_09_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_09_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_09_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.435,
+        "character_count": 1432,
+        "word_count": 234,
+        "date_count": 1,
+        "money_count": 1,
+        "vat_number_count": 2,
+        "invoice_keyword_count": 7,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.027,
+        "warnings": [],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "documento",
+            "pagamento",
+            "total",
+            "valor",
+            "iva",
+            "contribuinte"
+          ],
+          "provider_keywords": [
+            "vodafone"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.124,
+          "symbol_ratio": 0.009
+        }
+      },
+      "errors": [],
+      "warnings": []
+    },
+    "quality_score": 0.435,
+    "requires_ocr": true,
+    "requires_manual_review": true,
+    "warnings": [
+      "Selected OCR quality score is below manual-review threshold."
+    ],
+    "errors": []
+  },
+  {
+    "source_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_raw\\telecom_10.jpg",
+    "file_type": "jpg",
+    "extraction_method": "enhanced_ocr",
+    "selected_text": "6) vodafone\nTem 5079 pontos Clube Viva. oferta dsponivel emvodafane pt\nà pontos vão perder a validade a 37 de janeiro de 2025.\nAtive o débito direto\nEvite perdas de tempo e preocupações com os prazos \nde pagamento \n|\nca suafatua, umavez quec valoré automaticamentedescontadona\n= conta bancária\nOutras wantagers:\natração simples. rápida e segura\npode defing um valor mame \nde cobranca.\nPar abr aceda 20 My Wodatome ou lque 16972 (dsp\nsda, tanfa aplicdvell.\nOriginal \nFatura dez 2024\nNo Documento \nNo Contribuinte \nNo de Conta\nFT 101066054596 \n312956711 \n314155455\nApoio \nao Clienbe- visite wodalone \npo ajuda ou vodafone \npL contactos\nMy Wedademe-fecaagcitie \ndos \nscussenvicos consulte ¢ pague Talus em mqradafonept\nGEOFFREY BRUNO CARON\n1 Avenue des Tuileries\nTróvoux\n01600 \nFrance\nValor deste més\nData de emissão: 05-01-2025 \nPeriodo defaturação: 1 dez aM der\nMB \nEntidade: \n10297\nM \nReferência: 473665677 \n€51,89\nPROA \nMontante: € 51,6%\nData limite de pagamento: \n2d jan 2025\nArtorincia ME não porde-a validade, pode uti xd la mesmo api a data Emite de pagamento\nEncargos\nValores com IVA incluído \nWa \nMensalidade \nSuplementares \nComunicações \nadicionais \nDescontos (-) \nTotal\nTyNetVer+Mavel \n=a \nae \n:\nSSESP5D S7205a7ed \nae \nnua \neo\nGIDBEGDAS \na \nry\nTotal da fatura com IVA \n€51,89\nResumo \ndo IVA\nTaxa VÃ \nWalorBase \nWalorivA\nds \nfará \nE915",
+    "selected_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_10_selected_text.txt",
+    "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_10_enhanced_ocr_raw.txt",
+    "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_10_enhanced_ocr_cleaned.txt",
+    "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_10_enhanced_ocr_diagnostics.txt",
+    "ocr_comparison_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_10_ocr_comparison.txt",
+    "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_10_enhanced_ocr.pdf",
+    "baseline": {
+      "used": true,
+      "method": "baseline_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_10_baseline_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_10_baseline_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_10_baseline_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_10_baseline_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.266,
+        "character_count": 776,
+        "word_count": 110,
+        "date_count": 0,
+        "money_count": 1,
+        "vat_number_count": 1,
+        "invoice_keyword_count": 5,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.019,
+        "warnings": [
+          "No date patterns detected."
+        ],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "pagamento",
+            "total",
+            "valor",
+            "iva"
+          ],
+          "provider_keywords": [
+            "vodafone"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.082,
+          "symbol_ratio": 0.006
+        }
+      },
+      "errors": [],
+      "warnings": [
+        "No date patterns detected."
+      ]
+    },
+    "enhanced": {
+      "used": true,
+      "method": "enhanced_ocr",
+      "searchable_pdf": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_pdf\\telecom_10_enhanced_ocr.pdf",
+      "raw_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_10_enhanced_ocr_raw.txt",
+      "cleaned_text_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_10_enhanced_ocr_cleaned.txt",
+      "diagnostics_file": "C:\\Users\\henri\\Desktop\\agenticaiv2\\data\\data_txt\\telecom_10_enhanced_ocr_diagnostics.txt",
+      "quality": {
+        "score": 0.471,
+        "character_count": 1343,
+        "word_count": 207,
+        "date_count": 1,
+        "money_count": 2,
+        "vat_number_count": 3,
+        "invoice_keyword_count": 7,
+        "provider_keyword_count": 1,
+        "consumption_unit_count": 0,
+        "noise_score": 0.013,
+        "warnings": [],
+        "signals": {
+          "invoice_keywords": [
+            "fatura",
+            "documento",
+            "pagamento",
+            "total",
+            "valor",
+            "iva",
+            "contribuinte"
+          ],
+          "provider_keywords": [
+            "vodafone"
+          ],
+          "page_count": 1,
+          "replacement_character_count": 0,
+          "isolated_short_token_ratio": 0.068,
+          "symbol_ratio": 0.004
+        }
+      },
+      "errors": [],
+      "warnings": []
+    },
+    "quality_score": 0.471,
+    "requires_ocr": true,
+    "requires_manual_review": true,
+    "warnings": [
+      "Selected OCR quality score is below manual-review threshold."
+    ],
+    "errors": []
+  }
+]

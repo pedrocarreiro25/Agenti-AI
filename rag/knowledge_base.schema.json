@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "created_at": "ISO-8601 timestamp",
+  "updated_at": "ISO-8601 timestamp",
+  "providers": {
+    "<provider_id>": {
+      "provider_id": "Stable provider key",
+      "provider_name": "Provider display name",
+      "aliases": ["Known provider aliases used during retrieval"],
+      "provider_specific_extraction_tips": ["Rules and hints for this provider"],
+      "common_ocr_corrections": {
+        "misread text": "corrected text"
+      },
+      "known_invoice_layouts": [
+        {
+          "layout_id": "Source invoice or OCR file",
+          "invoice_type": "electricity | water | natural gas | telecom | null",
+          "field_markers": ["Signals observed in this layout"],
+          "successful_fields": ["Fields extracted successfully"],
+          "extraction_warnings": "Warnings from the structured extraction pass",
+          "observed_at": "ISO-8601 timestamp"
+        }
+      ],
+      "previously_validated_invoices": [
+        {
+          "signature": "source_file|invoice_number",
+          "source_file": "Original invoice path",
+          "ocr_text_file": "Selected OCR text path",
+          "valid_invoice": "true | false | null",
+          "validated_fields": {
+            "field_name": "validated value"
+          },
+          "extraction_warnings": "Warnings from extraction",
+          "added_at": "ISO-8601 timestamp"
+        }
+      ],
+      "human_reviewer_feedback": [
+        {
+          "source_file": "Reviewed invoice path",
+          "field_name": "Corrected field",
+          "old_value": "Previous value",
+          "corrected_value": "Human-approved value",
+          "note": "Reviewer note",
+          "recorded_at": "ISO-8601 timestamp"
+        }
+      ],
+      "validation_history": [
+        {
+          "source_file": "Reviewed invoice path",
+          "valid_invoice": "true | false | null",
+          "missing_required_fields": ["Field names still missing"],
+          "recorded_at": "ISO-8601 timestamp"
+        }
+      ]
+    }
+  },
+  "global": {
+    "common_ocr_corrections": {
+      "misread text": "corrected text"
+    },
+    "validation_history": []
+  }
+}

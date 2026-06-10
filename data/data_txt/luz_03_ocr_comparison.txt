@@ -1,0 +1,31 @@
+SOURCE FILE: C:\Users\henri\Desktop\agenticaiv2\data\data_raw\luz_03.webp
+
+BASELINE OCR:
+- searchable_pdf: C:\Users\henri\Desktop\agenticaiv2\data\data_pdf\luz_03_baseline_ocr.pdf
+- score: 0.157
+- characters: 273
+- words: 54
+- dates found: 0
+- money values found: 1
+- VAT/NIF numbers found: 1
+- consumption units found: 0
+- warnings:
+  - No date patterns detected.
+
+ENHANCED OCR:
+- searchable_pdf: C:\Users\henri\Desktop\agenticaiv2\data\data_pdf\luz_03_enhanced_ocr.pdf
+- score: 0.157
+- characters: 273
+- words: 54
+- dates found: 0
+- money values found: 1
+- VAT/NIF numbers found: 1
+- consumption units found: 0
+- warnings:
+  - No date patterns detected.
+
+SELECTED RESULT:
+baseline_ocr
+
+REASON:
+Scores were close, and baseline OCR had equal or better invoice signals.

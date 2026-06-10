@@ -1,0 +1,2 @@
+source_file,file_type,extraction_method,quality_score,requires_ocr,requires_manual_review,selected_text_file,searchable_pdf,warnings,errors
+C:\Users\henri\Desktop\agenticaiv2\data\data_raw\2026A240039354 (1).pdf,pdf,pdf_text_layer,0.705,False,False,C:\Users\henri\Desktop\agenticaiv2\data\data_txt\2026A240039354 (1)_selected_text.txt,C:\Users\henri\Desktop\agenticaiv2\data\data_pdf\2026A240039354 (1).pdf,,
