@@ -10,3 +10,10 @@ git checkout main                               Muda o branch para o main (exemp
 git log --oneline                               permite visualiza os ASH dos commits feitos mo branch
 git cherry-pick "ASH CODE"                      Permite colocar commits de outros branchs no branch em que se está
 
+
+Fazer push para Github (Sync)
+git add .                                       Adicionar arquivos à área de preparo:
+git commit -m "mensagem sobre alterações"       Confirmar as alterações com uma mensagem:
+git push -u origin main                         Enviar para o GitHub
+
+git checkout -b nome-da-sua-branch              Criar novo branch
