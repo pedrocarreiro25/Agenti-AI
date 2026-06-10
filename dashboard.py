@@ -11,6 +11,7 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import parse_qs, urlencode, urlparse
 
+
 from extract_invoice_fields import DEFAULT_OUTPUT_DIR, DEFAULT_TEXT_DIR, FIELDNAMES, extract_batch, extract_row, read_ocr_body
 from rag.adaptive_rag import (
     FIELD_NAMES as RAG_FIELD_NAMES,
