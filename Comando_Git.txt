@@ -1,11 +1,12 @@
 ## MERGE DE UM BRANCH PARA OUTRO
 
-git checkout main               Switch to the main branch           
-git pull origin main            Pull the latest remote changes: (This prevents conflicts with your local branch history)                
-git merge dev                   Merge the de4v branch into main                    
-git push origin main            Push the merged code to the remote repository
+git checkout main                               Switch to the main branch           
+git pull origin main                            Pull the latest remote changes: (This prevents conflicts with your local branch history)                
+git merge dev                                   Merge the de4v branch into main                    
+git push origin main                            Push the merged code to the remote repository
 
 
-git checkout main               Muda o branch para o main (exemplo)
-git log --oneline               permite visualiza os ASH dos commits feitos mo branch
-git cherry-pick "ASH CODE"      Permite colocar commits de outros branchs no branch em que se está
+git checkout main                               Muda o branch para o main (exemplo)
+git log --oneline                               permite visualiza os ASH dos commits feitos mo branch
+git cherry-pick "ASH CODE"                      Permite colocar commits de outros branchs no branch em que se está
+
