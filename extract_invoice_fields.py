@@ -12,6 +12,9 @@ DEFAULT_OUTPUT_DIR = DATA_ROOT / "data_processed"
 
 NULL_VALUE = "null"
 
+
+
+
 FIELDNAMES = [
     "source_file",
     "ocr_text_file",
